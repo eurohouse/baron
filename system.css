@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "euro";
+    src: url("sfuitext.ttf");
+}
+body, font, a, p, b, i, strong, em, li {
+    background-color: #b4b4b4;
+    color: #000;
+    font-family: "euro";
+    font-size: 14pt;
+}
+table, tr, td, th {
+    background-color: #e4e4e4;
+    color: #000;
+    font-family: "euro";
+    font-size: 14pt;
+    text-align: center;
+}
+input, select, textarea {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 3px;
+    font-family: "euro";
+    font-size: 14pt;
+}
+.top {
+    border: none;
+    position: absolute;
+    width: 98%;
+    height: 15%;
+    top: 0%;
+}
+.panel {
+    border: none;
+    position: absolute;
+    width: 96%;
+    height: 82%;
+    top: 15%;
+    overflow-y: scroll;
+}
+.hover:hover {
+    opacity: 0.7;
+    position: relative;
+}
+.actionButton {
+    background-color: #009f4b;
+    color: #fff;
+    font-size: 16pt;
+    width: 27px;
+    font-weight: bold;
+    position: relative;
+}
+.inputPanel {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    text-align: center;
+    position: relative;
+    font-family: "euro";
+    font-size: 16pt;
+    overflow-x: scroll;
+    width: 90%;
+    height: 40%;
+}
+.outputPanel {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    text-align: center;
+    position: relative;
+    font-family: "euro";
+    font-size: 16pt;
+    overflow-x: scroll;
+    width: 90%;
+    height: 40%;
+}
+.actionIcon {
+    height: 10%;
+}
+.actionIcon:hover {
+    opacity: 0.7;
+}
