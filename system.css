@@ -43,7 +43,7 @@ input, select, textarea {
     position: relative;
 }
 .actionButton {
-    background-color: #000;
+    background-color: #444;
     color: #fff;
     font-size: 16pt;
     width: 27px;
