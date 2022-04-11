@@ -29,6 +29,7 @@ input[type=button] {
     font-size: 16pt;
     font-weight: bold;
     border: none;
+    border-radius: 3px;
     position: relative;
 }
 .top {
@@ -49,6 +50,7 @@ input[type=button] {
 .hover:hover {
     opacity: 0.7;
     border: none;
+    border-radius: 3px;
     position: relative;
 }
 .actionButton {
@@ -58,12 +60,14 @@ input[type=button] {
     width: 27px;
     font-weight: bold;
     border: none;
+    border-radius: 3px;
     position: relative;
 }
 .inputPanel {
     background-color: #fff;
     color: #000;
     border: none;
+    border-radius: 3px;
     text-align: center;
     position: relative;
     font-family: "euro";
@@ -76,6 +80,7 @@ input[type=button] {
     background-color: #fff;
     color: #000;
     border: none;
+    border-radius: 3px;
     text-align: center;
     position: relative;
     font-family: "euro";
@@ -87,6 +92,7 @@ input[type=button] {
 .actionIcon {
     height: 10%;
     border: none;
+    border-radius: 3px;
     position: relative;
 }
 .actionIcon:hover {
@@ -94,6 +100,7 @@ input[type=button] {
 }
 .actionIconButton {
     border: none;
+    border-radius: 3px;
     position: relative;
 }
 .actionIconButton:hover {
