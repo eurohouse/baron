@@ -15,13 +15,20 @@ table, tr, td, th {
     font-size: 14pt;
     text-align: center;
 }
-input, select, textarea {
+input[type=text], select, textarea {
     background-color: #fff;
     color: #000;
     border: none;
     border-radius: 3px;
     font-family: "euro";
     font-size: 14pt;
+}
+input[type=button] {
+    background-color: #152130;
+    color: #fff;
+    font-size: 16pt;
+    font-weight: bold;
+    position: relative;
 }
 .top {
     border: none;
