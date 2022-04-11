@@ -28,6 +28,7 @@ input[type=button] {
     color: #fff;
     font-size: 16pt;
     font-weight: bold;
+    border: none;
     position: relative;
 }
 .top {
@@ -47,6 +48,7 @@ input[type=button] {
 }
 .hover:hover {
     opacity: 0.7;
+    border: none;
     position: relative;
 }
 .actionButton {
@@ -55,6 +57,7 @@ input[type=button] {
     font-size: 16pt;
     width: 27px;
     font-weight: bold;
+    border: none;
     position: relative;
 }
 .inputPanel {
@@ -83,12 +86,14 @@ input[type=button] {
 }
 .actionIcon {
     height: 10%;
+    border: none;
     position: relative;
 }
 .actionIcon:hover {
     opacity: 0.7;
 }
 .actionIconButton {
+    border: none;
     position: relative;
 }
 .actionIconButton:hover {
