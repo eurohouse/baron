@@ -29,7 +29,8 @@ select {
     border: none;
     border-radius: 3px;
     font-family: "euro";
-    font-size: 16pt;
+    font-size: 14pt;
+    height: 29px;
 }
 input[type=button] {
     background-color: #152130;
