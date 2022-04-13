@@ -23,7 +23,15 @@ input[type=text], textarea {
     font-family: "euro";
     font-size: 14pt;
 }
-input[type=button], select {
+select {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 3px;
+    font-family: "euro";
+    font-size: 16pt;
+}
+input[type=button] {
     background-color: #152130;
     color: #fff;
     font-size: 16pt;
