@@ -21,7 +21,7 @@ input[type=text], select, textarea {
     border: none;
     border-radius: 3px;
     font-family: "euro";
-    font-size: 14pt;
+    font-size: 16pt;
 }
 input[type=button] {
     background-color: #152130;
