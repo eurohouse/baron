@@ -34,7 +34,7 @@ select {
 input[type=button] {
     background-color: #152130;
     color: #fff;
-    font-size: 16pt;
+    font-size: 14pt;
     font-weight: bold;
     border: none;
     border-radius: 3px;
@@ -64,7 +64,7 @@ input[type=button] {
 .actionButton {
     background-color: #152130;
     color: #fff;
-    font-size: 16pt;
+    font-size: 14pt;
     width: 27px;
     font-weight: bold;
     border: none;
