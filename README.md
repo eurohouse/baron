@@ -1,2 +1,2 @@
 # Eurohouse Baron
-A gorgeous masterpiece of web design, Eurohouse Baron is rich, elegant and modern UX/UI design for the connosieurs of all things high quality. This collection comes with the modern-looking GUI for basic web desktop dependent on the global style scheme, such as HSIS, Fluent-esque minimalist icons and cool jazz-style sound scheme.
+A gorgeous masterpiece of web design, Eurohouse Baron is rich, elegant and modern UX/UI design for the connosieurs of all things high quality. This collection comes with the modern-looking GUI for basic web apps or web desktop dependent on the global style scheme, such as HSIS, Fluent-esque minimalist icons and cool jazz-style sound scheme that will surely brighten up your day.
