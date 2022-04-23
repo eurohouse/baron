@@ -37,7 +37,6 @@ input[type=button] {
     color: #fff;
     font-family: "euro";
     font-size: 14pt;
-    font-weight: bold;
     border: none;
     border-radius: 3px;
     position: relative;
@@ -69,7 +68,6 @@ input[type=button] {
     font-family: "euro";
     font-size: 14pt;
     width: 27px;
-    font-weight: bold;
     border: none;
     border-radius: 3px;
     position: relative;
