@@ -3,7 +3,7 @@
     src: url("flexo.ttf");
 }
 body, font, a, p, b, i, strong, em, li {
-    background-color: #bac0cf;
+    background-color: #c2c6d0;
     color: #000;
     font-family: "euro";
     font-size: 14pt;
@@ -33,7 +33,7 @@ select {
     height: 29px;
 }
 input[type=button] {
-    background-color: #383c4a;
+    background-color: #2e5bc6;
     color: #fff;
     font-family: "euro";
     font-size: 16pt;
@@ -63,7 +63,7 @@ input[type=button] {
     position: relative;
 }
 .actionButton {
-    background-color: #383c4a;
+    background-color: inherit;
     color: #fff;
     font-family: "euro";
     width: 27px;
