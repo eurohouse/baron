@@ -33,7 +33,7 @@ select {
     height: 29px;
 }
 input[type=button] {
-    background-color: #152130;
+    background-color: #383c4a;
     color: #fff;
     font-family: "euro";
     font-size: 16pt;
@@ -63,7 +63,7 @@ input[type=button] {
     position: relative;
 }
 .actionButton {
-    background-color: #152130;
+    background-color: #383c4a;
     color: #fff;
     font-family: "euro";
     width: 27px;
