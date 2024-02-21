@@ -1,0 +1,348 @@
+{
+    "Schloss Eggenberg":
+    {
+        "country": "AT",
+        "insignia": "palace",
+        "memoir": "Schloss Eggenberg in Graz ist die größte und bedeutendste barocke Schlossanlage der Steiermark. Es zählt mit seiner erhaltenen originalen Ausstattung, dem weitläufigen Landschaftsgarten sowie mit den im Schloss untergebrachten Sammlungen des Universalmuseums Joanneum zu den wertvollsten Kulturgütern Österreichs. Als Stammsitz des Adelsgeschlechts Eggenberg zeigt es mit seiner Bau- und Ausstattungsgeschichte den Wandel und das Mäzenatentum des einst mächtigsten Geschlechtes der Steiermark. 2010 wurde das Schloss in einer Erweiterung dem bestehenden UNESCO-Welterbe Stadt Graz – Historisches Zentrum und Schloss Eggenberg hinzugefügt.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Замок Эггенберг",
+                "memoir": "Дворец-замок Эггенберг (Schloss Eggenberg) - крупнейшая аристократическая резиденция Штирии. Расположена на окраине Граца и занесена (с 2010 года) в список Всемирного наследия. Усадебный дом повелел возвести в 1625 г. князь Эггенберг, фаворит и ближайший советник императора Фердинанда II, своего рода австрийский Ришельё. Его любимый зодчий Джованни Пьетро де Помис, памятуя об увлечении князя астрологией, спроектировал здание в духе ренессансной гармонии. В состав дворцово-паркового комплекса вошла позднеготическая капелла, выстроенная предками князя."
+            }
+        }
+    },
+    "Palácio Nacional de Queluz":
+    {
+        "country": "PT",
+        "insignia": "harp",
+        "memoir": "Um dos últimos grandes edifícios do estilo rococó a serem projetados na Europa, o palácio foi concebido como um retiro de verão para D. Pedro de Bragança, que mais tarde tornar-se-ia marido e então rei consorte da sua própria sobrinha, a rainha Maria I. Serviu como um discreto local de encarceramento para a rainha D. Maria, pois a sua descida à loucura continuou nos anos seguintes à morte de D. Pedro em 1786. Após a destruição pelo fogo da Real Barraca em 1794, o Palácio de Queluz tornou-se a residência oficial do príncipe regente João VI e da sua família, permanecendo assim até que a família real viajou para a colónia do Brasil em 1807 após a invasão francesa de Portugal.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Дворец Келуш",
+                "memoir": "В начале XVII века загородное имение неподалёку от Лиссабона принадлежало Криштовану де Моура, маркизу де Каштелу-Родригу (1538-1613), неоднократно служившему Испании в качестве вице-короля Португалии. Его сын Мануэль де Моура, 2-й маркиз де Каштелу-Родригу (1590-1651) также отличался своими происпанскими взглядами. После прихода к власти Брагансской династии и обретением страны независимости в 1640 году, это его имение наравне со многими другими было конфисковано, после чего перешло ко второму сыну короля Жуана IV. Следующим владельцем был второй сын короля Жуана V (внука Жуана IV), инфант дон Педру (1717-1786), впоследствии, после смерти своего старшего брата Жозе I (1714-1777), ставший королём Португалии. При нём загородный дом начал перестраиваться в настоящий дворец. Строительство началось в 1747 году и длилось почти полвека, закончившись в 1790-х годах, уже после смерти короля."
+            }
+        }
+    },
+    "Jardin du Luxembourg":
+    {
+        "country": "FR",
+        "maison": "https://jardin.senat.fr",
+        "insignia": "palace",
+        "memoir": "The history of the Jardin du Luxembourg really starts in 1611 when Marie de Medici decided to purchase the land and a small palace that was already located here, and although many things have changed over the years, this large garden in Paris still retains many original features and is a popular tourist attraction. Queen Marie de Medici was of Italian origin and wife to King Henri IV, and when he was assassinated, she became regent for their son King Louis XIII, but she was not happy living at the Palais du Louvre, yearning for reminders of her childhood in Florence and a palace that would be more modern and comfortable."
+    },
+    "King of Couture":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "September 1 marks the 300th anniversary of the death of King Louis XIV, France’s longest-reigning monarch. Logging 72 years on the throne, Louis eclipsed Queen Victoria by a decade. But this tercentenary also commemorates a beginning: the birth of haute couture as people know it today, seasonal, corporate, media-driven, and - above all - French. When Louis came to the throne in 1643, the fashion capital of the world wasn’t Paris, but Madrid. Taste tends to follow power, and for the past two centuries or so Spain had been enjoying its Golden Age, amassing a vast global empire that fueled a booming domestic economy. Spanish style was tight and rigid - both physically and figuratively - and predominantly black. Not only was black considered to be sober and dignified by the staunchly Catholic Habsburg monarchy, but high-quality black dye was extremely expensive, and the Spanish flaunted their wealth by using as much of it as possible. They advertised their imperial ambitions, as well, for Spain imported logwood - a key dyestuff - from its colonies in modern-day Mexico. While Spain’s explorers and armies conquered the New World, her fashions conquered the old one, and Spanish style was adopted at courts throughout Europe."
+    },
+    "Rule The World":
+    {
+        "country": "GB",
+        "insignia": "eurohouse",
+        "memoir": "Although Europe represents only about 8 percent of the planet's landmass, from 1492 to 1914, Europeans conquered or colonized more than 80 percent of the entire world. Being dominated for centuries has led to lingering inequality and long-lasting effects in many formerly colonized countries, including poverty and slow economic growth. There are many possible explanations for why history played out this way, but few can explain why the West was so powerful for so long. It's just fascinating. In 1914, really only China, Japan, and the Ottoman Empire had escaped becoming European colonies. A thousand years ago, no one would have ever expected that result, for at that point western Europe was hopelessly backward. It was politically weak, it was poor, and the major long-distance commerce was a slave trade led by Vikings. The political dominance of western Europe was an unexpected outcome and had really big consequences, so I thought: let's explain it."
+    },
+    "Haussmann Architecture":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "The Haussmann style of architecture, also known as Haussmannian, is the architecture that has defined modern-day Paris. In the 19th century, Baron Georges-Eugène Haussmann, a Parisian official with no architectural background, revamped the city at the request of Emperor Napoleon III. Haussmann assumed the role, Prefect of the Seine Department, and managed this vast project, which became known as the \"Haussmann Renovation of Paris.\" This comprehensive urban renewal program spanned from 1853 to 1870, with the construction continuing through 1927. Haussmann eliminated many of the city’s mazelike streets and removed more than 12,000 medieval structures during this dark time when Paris was filthy, overcrowded and infested with disease. He redesigned the city with a network of wide, stately boulevards, built 40,000 new buildings and cleared space for Les Halles marketplace and the Palais Garnier (home of the Paris Opera Ballet). The namesake Boulevard Haussmann runs east to west through the 9th arrondissement, near Palais Garnier. He created other structures and public plazas while modernizing the town’s sewers, fountains and viaducts as well. But it was Paris’ cavalcade of enchanting apartments and their uniform facades that ultimately transformed the streetscape, making way for a more cohesive, unified city and fulfilling Napoleon III’s vision. Lining the city’s graceful avenues, these refined Haussmann-style buildings shaped the magnificent town we know today while accounting for about 60% of Parisian architecture."
+    },
+    "Parisian Decor":
+    {
+        "country": "FR",
+        "insignia": "givenchy",
+        "memoir": "he Parisian-style decor is just spectacular. With high ceilings, tall windows, carved moldings, marble fireplaces, herringbone parquet floors, and wall panelings, Parisian apartments have truly charming architectural details. And Parisians know exactly how to sublime these exquisite architectural elements with just a few decor pieces and by following specific interior styling rules. Sophisticated and elegant, the Parisian style decor is timeless. To achieve this look in your home, you don't have to be a millionaire, live in a beautiful Haussmannian building on the Rive Gauche, or decorate your home with priceless antiques. Being French, I've lived in the 4th Arrondissement of Paris on the Île Saint-Louis, and in this article, I'll show you how to recreate this look in your home. First, I'll explain what characterizes the Parisian style decor and what makes Parisian interiors truly unique. Then, I'll reveal my best interior styling tips to achieve this look in your home."
+    },
+    "Picnic Events":
+    {
+        "insignia": "wine",
+        "memoir": "Relax and enjoy your special day without worrying about the details. Our wedding planning and Coordination services ensure that everything runs smoothly from start to finish, so you can focus on making memories that will last a lifetime. We believe that every occasion, big and small, deserves to be stunning. That's why we have taken the humble picnic and elevated it with picture-perfect design and dreamlike grazing platters. Perfect for any occasion you wish to celebrate. Whether it's a date night, birthday, bridal shower, baby shower, corporate event or simply a picnic to celebrate life, let us take care of everything you need! Just relax, get cozy and enjoy the time with others, while lounging on the most comfortable blankets and cushions and indulging in a delicious grazing board. Greatness lies in the details. It's the little things - from our intricately hand-woven macrame pillows to our mindfully-curated grazing boards - that give our picnics a cozy, yet luxurious feel. Every aspect of our picnic events has been carefully planned with an aspiration for quality, sophistication, and charm."
+    },
+    "Orient Express":
+    {
+        "country": "EU",
+        "maison": "https://www.orient-express.com",
+        "insignia": "express",
+        "memoir": "After a heartbreak, young Belgian engineer Georges Nagelmackers fled to the United States. There, he discovered railroads with the world's first sleeping cars. Back in Europe, he realized his life's work: launching luxurious trains that would lead to the Gates of the Orient. Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe. On October 4th, 1883, the most fascinating train in the world left Paris for Constantinople and embarked with forty passengers on board. The round trip lasted 7 days. With this one trip, the geography of Europe was turned upside down, and the notion of long-distance travel was completely redefined."
+    },
+    "Château de Versailles":
+    {
+        "country": "FR",
+        "maison": "https://chateauversailles.fr",
+        "insignia": "palace"
+    },
+    "Eiffel Tower":
+    {
+        "country": "FR",
+        "maison": "https://www.toureiffel.paris",
+        "insignia": "toureiffel",
+        "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1953122 came to see the Eiffel Tower, in other words almost 12000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30000 visitors climbed the monument using the staircase, that is to say 1710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece. The public hurried to experience not only the dizzy heights of the ascent, but above all an unprecedented view over Paris, since no one had yet seen the view from an aeroplane. The Eiffel Tower has attracted among its copious number of celebrity visitors the French actress Sarah Bernhardt, the Prince of Wales (future King Edward VII) and the Princess of Wales, George I of Greece, le Shah of Persia, Prince Baudouin and other, more unexpected guests such as one certain American: he had long hair, a broad hat and tan-coloured chaps. It was William F. Cody, known by the name of Buffalo Bill. On the 10th July, the President of the French Republic, Sadi Carnot, very satisfied with his visit, offered a sum of 200 Francs to the Eiffel Tower employees and a sum of 100 Francs to the Figaro printing staff!"
+    },
+    "Mermaid Inn":
+    {
+        "country": "GB",
+        "maison": "https://www.mermaidinn.com",
+        "insignia": "mermaid",
+        "memoir": "This Winter escape to The Mermaid Inn and Rye. Discover the experience of staying in a 600 year old Inn, with a 2 AA Rosette Restaurant, The Giants Fireplace Bar, and Cellars dated to 1156. Then discover the unique town of Rye, with its' cobbled streets, independent shops, cafes and restaurants, all within the medieval citadel. The Rye Heritage Centre, with its' Sound and Light Show is the place to begin the discovery of Rye... Then discover the varied and rich landscape surrounding Rye. Walk at Rye Harbour Nature Reserve, visit the local Vineyards during their harvest, experience Europe's only desert at Dungeness, or explore the varied walks around Rye in the Weald."
+    },
+    "CHANEL N°5":
+    {
+        "country": "FR",
+        "maison": "https://www.chanel.com",
+        "insignia": "chanel",
+        "memoir": "A timeless, legendary fragrance in a radically minimal bottle, CHANEL N°5 is the very essence of femininity. Its floral-aldehydic bouquet is the epitome of Gabrielle Chanel's initial request: \"a woman's perfume, with a woman's scent.\" N°5 comes in 5 interpretations. Marilyn Monroe once said: 'What do I wear in bed? Why, Chanel No. 5, of course'. Chanel No. 5 was the first perfume launched by French couturier Gabrielle \"Coco\" Chanel in 1921. The scent formula for the fragrance was compounded by French-Russian chemist and perfumer Ernest Beaux. The design of its bottle has been an important part of the product's branding. Coco Chanel was the first face of the fragrance, appearing in the advertisement published by Harper's Bazaar in 1937. Traditionally, fragrances worn by women fell into two basic categories. \"Respectable women\" favored the essence of a single garden flower while sexually provocative indolic perfumes heavy with animal musk or jasmine were associated with women of the demi-monde, prostitutes, or courtesans. Chanel sought a new scent that would appeal to the flapper and celebrate the seemingly liberated feminine spirit of the 1920s."
+    },
+    "European ☕️ Café 🍫 Culture 🍷":
+    {
+        "country": "EU",
+        "maison": "https://coffeeaffection.com",
+        "insignia": "coffee",
+        "memoir": "While coffee may have started in Ethiopia and quickly spread to the Middle East, hundreds of years later it has found its home in Europe. Needless to say, it has left its indelible mark on the culture of Europe. In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It is about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed. Many European coffee cultures, especially those of Western Europe (Spain, Portugal, France) are extremely similar. If we were to go in-depth in describing all of the intricacies of each European country's coffee culture, you’d be reading for hours. Today we will discuss the big players and influencers."
+    },
+    "⛰ Zermatt Matterhorn 🌲":
+    {
+        "country": "CH",
+        "maison": "https://www.zermatt.ch",
+        "insignia": "express",
+        "memoir": "There are a wide variety of different attractions to be discovered around the Matterhorn. A top excursion is Gornergrat. On this three-thousand metre mountain ridge there is a viewing platform with a truly unforgettable view of the Matterhorn and the surrounding mountain world. Or if you prefer, the Matterhorn can also be admired from the Rothorn casting a spell on young and old alike. The Matterhorn Glacier Paradise is the highest summer ski region in Europe and is open 365 days a year. And there is still plenty to do when the sun isn't shining! And there is also plenty to do when it's not so sunny! The Matterhorn Museum explains the historic development of Zermatt from a mountain village to an Alpine holiday resort."
+    },
+    "⛰ Oslofjorden 🌲":
+    {
+        "country": "NO",
+        "maison": "https://www.visitoslofjorden.no",
+        "insignia": "ironcross",
+        "memoir": "The oldest settlements in the area surrounding the Oslofjord date from the Stone Age and the Bronze Age. It was here on the eastern and western shores that three of the best preserved Viking ships were unearthed, including the Gokstad ship. In historical times, this bay was known by the current name of the region, Viken (the bay). Oslofjord has been an important body of water strategically due to its proximity to the capital city of Oslo. During World War II, there were German installations at several points on its coastline. One installation in Hovedøya held 1,100 Wehrmacht soldiers and later women deemed Nazi collaborators at the National Internment Camp for Women in Hovedøya. Norwegian painter Edvard Munch had a cottage and studio in Åsgårdstrand on the fjord and the Oslofjord appears in several of his paintings, including The Scream and Girls on the Pier."
+    },    
+    "Musée du Louvre":
+    {
+        "country": "FR",
+        "maison": "https://www.louvre.fr",
+        "insignia": "louvre",
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV. In 1791, during the French Revolution, it was decreed that the Louvre should become a museum of the arts. The Muséum Central des Arts was inaugurated in 1793, and thereafter the palace was increasingly given over to the museum collections and their display to the public. From 1981 to 1989, the Pyramid project focused on putting visitors at the heart of the museum and its collections. The Department of Islamic Art was inaugurated in 2012 and the Department of Byzantine and Eastern Christian Art was created in 2022. The Louvre is a universal museum with nine curatorial departments: Egyptian Antiquities; Near Eastern Antiquities; Greek, Etruscan and Roman Antiquities; Paintings; Sculptures; Decorative Arts; Prints and Drawings; Islamic Art; and now Byzantine and Eastern Christian Art. Some 33,000 works of art are on display, including world-famous masterpieces such as the Winged Victory of Samothrace, the Seated Scribe, the Winged Bulls of Khorsabad, the Mona Lisa and Michelangelo's Slaves, and parts of the palace, such as the Napoleon III Apartments, are works of art in their own right. In front of the palace is the Tuileries Garden, created during the Renaissance by Catherine de' Medici, and a few miles away, at the heart of Saint-Germain-des-Prés, is another museum managed by the Louvre - the Musée Eugène-Delacroix, housed in the painter's last apartment."
+    },
+    "Palais Garnier":
+    {
+        "country": "FR",
+        "maison": "https://www.operadeparis.fr",
+        "insignia": "palace",
+        "memoir": "A few years after the fall of Napoleon, on 13 February 1820, the Duc de Berry, heir to the throne, was fatally stabbed in front of the Opera, then located in the Montansier Hall. Louis XVIII decided to destroy the theatre and the Opera moved to the Favart Hall before settling in a new temporary Hall, street Le Peletier, in 1821. This new theatre was equipped with a deep stage, a large stage housing and gas lighting, and gave to designers new conditions that had a strong influence on the operatic repertoire. It was in this theatre of worldwide influence that the Grand Opera main masterpieces were created, such as Gioacchino Rossini’s Guillaume Tell (1829), Giacomo Meyerbeer’s Robert le Diable (1831) or La Juive by Jacques Fromental Halévy (1835), La Favorite by Gaetano Donizetti (1840), Giuseppe Verdi’s The Sicilian Vespers, or the French-language version of Richard Wagner’s Tannhäuser (1861). For 50 years, the Opera became the centre of European musical as well as social life. The world of opera was painted by Edgar Degas or Édouard Manet, portrayed in literature by Honoré de Balzac or Alexandre Dumas and, there, reputations were made and broken."
+    },
+    "Angelina Jolie":
+    {
+        "height": 1.69,
+        "weight": 54,
+        "sizes": "92-59-89",
+        "shoe_size": 9,
+        "country": "US"
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66,
+        "weight": 53,
+        "sizes": "87-61-89",
+        "shoe_size": 6.5,
+        "country": "US"
+    },
+    "Fanny Neguesha":
+    {
+        "height": 1.73,
+        "weight": 56,
+        "sizes": "86-59-89",
+        "shoe_size": 8,
+        "country": "BE"
+    },
+    "Russian Empire":
+    {
+        "country": "RU",
+        "insignia": "russia"
+    },
+    "Beyoncé":
+    {
+        "height": 1.7,
+        "weight": 62,
+        "sizes": "89-66-99",
+        "shoe_size": 8.5,
+        "country": "US"
+    },
+    "European Banquet":
+    {
+        "country": "EU",
+        "maison": "http://www.banqueteurope.com",
+        "insignia": "wine"
+    },
+    "European Bombshell":
+    {
+        "foot_type": "Roman",
+        "country": "EU",
+        "insignia": "eurohouse",
+        "memoir": "So you wanna be a bombshell, huh? I always did too - blame it on a childhood spent fawning over old movies and their too-glamorous stars. I studied the art of the bombshell throughout my teens and early twenties, cultivating myself and my look until I felt like I could hold my own with the legends, the Marilyns and Harlows and Sophia Lorens. I mean ... to a certain extent. You wanna follow suit? Here's what you need to know. You need to wear perfume. A bombshell always does. I don't care if you wear Walmart body splash that smells like pure vanilla sugar. I don't care if you wear Paris Hilton perfume. You just need to wear it and wear it often. Wear it everywhere. Wearing perfume to the gas station will become a necessity. You'll start to feel naked without it. A bombshell smells good all the time - unless she's working outside or working out - and people remember her for it. One of my favorite bombshells wears amber oil exclusively. You know how you lean in to hug someone and get a little whiff of her perfume and shampoo and the scent of her skin all mingled up? That's what you want to emulate. You don't need big, loud clouds of scent, but a little bit makes you memorable. It should smell like you, but better."
+    },
+    "Bayeux Tapestry":
+    {
+        "country": "EU",
+        "maison": "https://www.bayeuxmuseum.com",
+        "insignia": "knight",
+        "memoir": "From The 11th Century To Today, The Bayeux Tapestry Has Been Telling Its Story. The Tapestry has had several lucky escapes. Its existence has been marked by turbulent periods when it was in danger or at serious risk of being damaged. After being rescued many times, the tapestry has survived and continues to reveal its secrets today. The Bayeux Tapestry probably spent seven centuries in the Treasury of Bayeux cathedral and was then moved to a number of different locations in the city and throughout France before ending its journey in the former Seminary of Bayeux ,where it has been on display since 1983.  Since then, it has continued to be a never-ending source of inspiration for scientists and artists all over the world.  It will become the focus of attention once again in 2025, with the creation of a new setting to showcase it in Bayeux."
+    },
+    "Katy Perry":
+    {
+        "height": 1.73,
+        "weight": 61,
+        "sizes": "92-64-89",
+        "shoe_size": 8,
+        "country": "US"
+    },
+    "European Aristocracy":
+    {
+        "country": "EU",
+        "insignia": "crown"
+    },
+    "European Knight":
+    {
+        "country": "EU",
+        "insignia": "spartan"
+    },
+    "European Wedding":
+    {
+        "country": "EU",
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0
+    },
+    "Cliffe Castle Museum":
+    {
+        "country": "GB",
+        "insignia": "palace",
+        "memoir": "Cliffe Castle was originally the home of Victorian millionaire and textile manufacturer, Henry Isaac Butterfield. Completed in the 1880s the building was funded by the Butterfield family’s industrial empire which included wool textile mills and a shipping business that took British goods to Europe, America and China. The completed house was a showpiece of international art and French decoration. It was the scene of many glittering social events. Butterfield family connections included  the Roosevelt’s of America and members of the court of Napoleon III. In the 1950s the Castle was bought by Sir Bracewell Smith, a local man who became Lord Mayor of London. Sir Bracewell used architect Sir Albert Richardson to turn Cliffe Castle’s gardens into a grand public park and remodelled the Castle to be a free museum for the people of the district. In recent years Cliffe Castle has undergone a major restoration. Visitors can see sparkling Victorian rooms and furniture, paintings, and decorative art. Special galleries deal with natural history, archaeology and social history, all of which can be seen on your visit along with the internationally important display of stained glass by Morris and Co. The Castle also hosts changing exhibitions from our collections and the community. Family areas ensure that there is something for all ages."
+    },
+    "Italian Feet":
+    {
+        "foot_type": "Roman",
+        "country": "IT",
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0
+    },
+    "Ballet de Cour":
+    {
+        "country": "IT",
+        "insignia": "mistress",
+        "memoir": "Baroque dance (known as Belle Danse at the time) developed in the 17th century under Louis XIV. It was much more than mere entertainment for the nobility - it was considered a major art form, of social and political significance. Dance was part and parcel of a noble education, and a prerequisite for the honnête homme in full control of his body and mind (and thus his subjects). Significantly Louis XIV instituted the Académie Royale de Danse before the Académie Royale de Musique, with a view to promoting and perfecting this art form. Magnificent performances of the ‘Ballet du Roi’ were held each year during Carnaval, a truly royal ritual since the time of Henri IV. The King took to the stage surrounded by selected courtiers and professional players, to present the perfect embodiment of the Virtuous Prince to his Court and subjects. Dance, and the harmony it reflected in its controlled framework, was designed to assert the legitimacy of the Monarch, the strength of his policies and the benefits he bestowed upon his people. The image of the consummate sovereign ensuring order and harmony always appeared in the symbolic choreographic climax of the closing ‘grand ballet’."
+    },
+    "World War II":
+    {
+        "country": "EU",
+        "insignia": "balkenkreuz"
+    },
+    "Second Battle of Ypres":
+    {
+        "country": "BE",
+        "insignia": "ironcross",
+        "memoir": "At 5:00 PM on April 22 a heavy greenish yellow haze rose from the German trenches opposite Langemarck and rolled southwestward on the gentle breeze of that sunny afternoon. Soon French troops were seen staggering back through a storm of high-explosive and gas shells, past the Canadian batteries and reserve infantry battalions. It was clear that the line on the left had broken, but the extent of the disaster was not realized at first. In fact, the German XXIII and XXVI Reserve Corps, after a short artillery preparation, had attacked under cover of a discharge of nearly 200 tons (180,000 kg) of chlorine gas. The effect of the gas on the French was greater than the German infantry had anticipated. By nightfall the XXIII Corps had crossed the Yser canal and the XXVI had advanced some 2 miles (3 km), capturing the high ground at Pilckem (later called Mauser) Ridge and approaching the town of St. Julien (now St. Juliaan), some 2.5 miles (4 km) northeast of Ypres. By 8:00 PM there were no formed bodies of French troops east of the canal, all their batteries in that sector had been captured, and the entire left flank of the 1st Canadian Division lay exposed to attack. Although the Belgian and Canadian hinges held firm, the gates to Ypres had been thrown open. However, no German troops were ready to pass through."
+    },
+    "007 James Bond":
+    {
+        "country": "GB",
+        "maison": "https://www.007.com",
+        "insignia": "007",
+        "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise. 007 ELEMENTS guides visitors on a journey through a series of high-tech, interactive galleries, each distilling the craft of the signature elements that define a James Bond film - the beautiful title sequences and dramatic scores; the jaw-dropping action sequences; the cars, gadgets and technology; the breath-taking locations and iconic studio sets and lastly, a host of compelling characters."
+    },
+    "Palais de Justice":
+    {
+        "country": "BE",
+        "insignia": "capitol",
+        "memoir": "When its construction finished in 1883, the Justice Palace was the largest building in the world, and even today it is one of the most spectacular. Le Palais de Justice (The Palace of Justice) is one of the largest and most impressive buildings in the whole of Europe. It is currently still the most important court building in Belgium. Due to its cheer size; 160 by 150 meters and a total ground surface of 26,000 m² and its location on the high Town of Brussels, the building is visible from most parts of the town. The best views of Brussels are found on Poelaert Square, where the main entrance to the building is located. The building was constructed between 1866 and 1883 by Joseph Poelaert, who died four years before the Palace was inaugurated. For the building to be completed, 3,000 houses had to be torn down. At the end of World War II when the Germans were chased out of Belgium, they set fire to the Palace and the dome collapsed. The new dome is taller, narrower and very different from the original one."
+    },
+    "Le Petit Trianon":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "In an attempt to gain some brief respite from courtly etiquette, the kings of Versailles built themselves more intimate spaces close to the main palace. Adjoining the Petit Parc, the estate of Trianon is home to the Grand Trianon and Petit Trianon palaces, as well as the Queen’s Hamlet and a variety of ornamental gardens. Construction on the estate began under Louis XIV, who had the Grand Trianon Palace built at the far end of the northern branch of the Grand Canal. The estate is perhaps most closely associated with Queen Marie-Antoinette. The wife of Louis XVI regularly sought refuge at the Petit Trianon, where she commissioned marvellous landscaped gardens centred around a hamlet of cottages built in the rustic style then in vogue. Designed for more intimate moments, this royal estate contains architectural gems and magnificent gardens whose diversity and ornamentation give it a unique charm."
+    },
+    "Duck Test":
+    {
+        "country": "BE",
+        "insignia": "bird",
+        "memoir": "The duck test is a form of abductive reasoning, usually expressed as \"If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.\" The test implies that a person can identify an unknown subject by observing that subject's habitual characteristics. It is sometimes used to counter abstruse arguments that something is not what it appears to be. The French automaton maker Jacques de Vaucanson created a mechanical duck in 1738. The mechanical duck would quack, move its head to eat grain which it would appear to digest, and after a short time would excrete a mixture that looked and smelled like duck droppings. The irony is that while the phrase is often cited as proof of abductive reasoning, it is not proof, as the mechanical duck is still not a living duck."
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66,
+        "weight": 57,
+        "sizes": "89-63-89",
+        "shoe_size": 7.5,
+        "country": "FR"
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7,
+        "weight": 63,
+        "sizes": "94-66-91",
+        "shoe_size": 7.5,
+        "country": "BE"
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7,
+        "weight": 47,
+        "sizes": "76-51-86",
+        "shoe_size": 10.5,
+        "country": "EU"
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66,
+        "weight": 52,
+        "sizes": "81-64-89",
+        "shoe_size": 8,
+        "country": "US"
+    },
+    "Elena Gheorghe":
+    {
+        "height": 1.6,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 7.5,
+        "country": "RO"
+    },
+    "Eva Darling":
+    {
+        "country": "US",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0,
+        "maison": "https://www.eva-darling.com",
+        "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
+    },
+    "Tiffany Haddish":
+    {
+        "country": "US",
+        "memoir": "Tiffany Haddish channels her inner Audrey Hepburn and talks to Harper’s Bazaar magazine about why what the world needs now is more Meryl Streep. On interacting with her fans in person: “I don’t mind anybody talking to me, but if I’m eating, that makes me mad because I have a serious relationship with food. When people come over to me when I’m eating, I’m always surprised they’re not like, ‘Tiffany Haddish is an evil bitch.’” On getting bat mitzvahed on her 40th birthday: “I learned Hebrew and everything. I was doing those bar mitzvahs for like 11 years, so I was always learning things.” On how she was introduced to PopSockets: “Taylor Swift was the first one that got me into these things. She was like, ‘Here, get some memorabilia from my concert.’ I was like, ‘What is this?’ And she was like, ‘You put it on your cell phone.’”"
+    },
+    "Camila Cabello":
+    {
+        "height": 1.57,
+        "weight": 50,
+        "sizes": "87-64-90",
+        "shoe_size": 7,
+        "country": "US"
+    },
+    "Barbara Palvin":
+    {
+        "height": 1.75,
+        "weight": 58,
+        "sizes": "85-59-89",
+        "shoe_size": 8,
+        "country": "HU"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "000":
+    {
+        "title": "Paris Fashion Week [semester] [year]",
+        "language":
+        {
+            "RU": "Неделя моды в Париже [semester] [year]",
+            "JP": "[year] フランス ([semester])"
+        }
+    },
+    "001":
+    {
+        "title": "Murder on the Orient Express",
+        "language":
+        {
+            "RU": "Убийство в Восточном экспрессе",
+            "JP": "オリエント急行殺人事件"
+        }
+    },
+    "002":
+    {
+        "title": "007: The World is Not Enough",
+        "language":
+        {
+            "RU": "Агент 007: И целого мира мало",
+            "JP": "007: 世界は十分ではない"
+        }
+    },
+    "003":
+    {
+        "title": "New York Fashion Week [quarter] [year]",
+        "language":
+        {
+            "RU": "Неделя моды в Нью-Йорке [quarter] [year]",
+            "JP": "[year] アメリカ合衆国 ([quarter])"
+        }
+    },
+    "004":
+    {
+        "title": "The Beauty of Old Hollywood Glamour",
+        "language":
+        {
+            "RU": "Атмосфера Золотого века Голливуда",
+            "JP": "オールドハリウッドの優雅さ"
+        }
+    }
+}
