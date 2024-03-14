@@ -133,7 +133,8 @@
         "weight": 54,
         "sizes": "92-59-89",
         "shoe_size": 9,
-        "country": "US"
+        "country": "US",
+        "birthday": "June 4, 1975"
     },
     "Victoria Justice":
     {
@@ -141,7 +142,8 @@
         "weight": 53,
         "sizes": "87-61-89",
         "shoe_size": 6.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "February 19, 1993"
     },
     "Fanny Neguesha":
     {
@@ -149,7 +151,8 @@
         "weight": 56,
         "sizes": "86-59-89",
         "shoe_size": 8,
-        "country": "BE"
+        "country": "BE",
+        "birthday": "June 10, 1990"
     },
     "Murder of the Romanov family":
     {
@@ -163,7 +166,8 @@
         "weight": 62,
         "sizes": "89-66-99",
         "shoe_size": 8.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "September 4, 1981"
     },
     "European Banquet":
     {
@@ -191,7 +195,8 @@
         "weight": 61,
         "sizes": "92-64-89",
         "shoe_size": 8,
-        "country": "US"
+        "country": "US",
+        "birthday": "October 25, 1984"
     },
     "European Aristocracy":
     {
@@ -210,7 +215,8 @@
         "height": 0,
         "weight": 0,
         "sizes": "X-X-X",
-        "shoe_size": 0
+        "shoe_size": 0,
+        "birthday": ""
     },
     "Cliffe Castle Museum":
     {
@@ -225,8 +231,9 @@
         "insignia": "eurohouse",
         "height": 0,
         "weight": 0,
-        "sizes": "X-X-X",
-        "shoe_size": 0
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "Ballet de Cour":
     {
@@ -270,7 +277,8 @@
         "weight": 44,
         "sizes": "81-61-84",
         "shoe_size": 7.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "June 26, 1993"
     },
     "Brigitte Bardot":
     {
@@ -278,7 +286,8 @@
         "weight": 57,
         "sizes": "89-63-89",
         "shoe_size": 7.5,
-        "country": "FR"
+        "country": "FR",
+        "birthday": "September 28, 1934"
     },
     "Rose Bertram":
     {
@@ -286,7 +295,8 @@
         "weight": 63,
         "sizes": "94-66-91",
         "shoe_size": 7.5,
-        "country": "BE"
+        "country": "BE",
+        "birthday": "October 26, 1994"
     },
     "Audrey Hepburn":
     {
@@ -294,53 +304,7 @@
         "weight": 47,
         "sizes": "76-51-86",
         "shoe_size": 10.5,
-        "country": "EU"
-    },
-    "Olivia Culpo":
-    {
-        "height": 1.66,
-        "weight": 52,
-        "sizes": "81-64-89",
-        "shoe_size": 8,
-        "country": "US"
-    },
-    "Elena Gheorghe":
-    {
-        "height": 1.6,
-        "weight": 0,
-        "sizes": "X-X-X",
-        "shoe_size": 7.5,
-        "country": "RO"
-    },
-    "Eva Darling":
-    {
-        "country": "US",
-        "height": 0,
-        "weight": 0,
-        "sizes": "X-X-X",
-        "shoe_size": 0,
-        "maison": "https://www.eva-darling.com",
-        "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
-    },
-    "Tiffany Haddish":
-    {
-        "country": "US",
-        "memoir": "Tiffany Haddish channels her inner Audrey Hepburn and talks to Harper’s Bazaar magazine about why what the world needs now is more Meryl Streep. On interacting with her fans in person: “I don’t mind anybody talking to me, but if I’m eating, that makes me mad because I have a serious relationship with food. When people come over to me when I’m eating, I’m always surprised they’re not like, ‘Tiffany Haddish is an evil bitch.’” On getting bat mitzvahed on her 40th birthday: “I learned Hebrew and everything. I was doing those bar mitzvahs for like 11 years, so I was always learning things.” On how she was introduced to PopSockets: “Taylor Swift was the first one that got me into these things. She was like, ‘Here, get some memorabilia from my concert.’ I was like, ‘What is this?’ And she was like, ‘You put it on your cell phone.’”"
-    },
-    "Camila Cabello":
-    {
-        "height": 1.57,
-        "weight": 50,
-        "sizes": "87-64-90",
-        "shoe_size": 7,
-        "country": "US"
-    },
-    "Barbara Palvin":
-    {
-        "height": 1.75,
-        "weight": 58,
-        "sizes": "85-59-89",
-        "shoe_size": 8,
-        "country": "HU"
+        "country": "EU",
+        "birthday": "May 4, 1929"
     }
 }
