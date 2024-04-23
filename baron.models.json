@@ -1,0 +1,137 @@
+{
+    "Angelina Jolie":
+    {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language":
+        {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Fanny Neguesha":
+    {
+        "height": 1.73, "weight": 56,
+        "sizes": "86-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "BE",
+        "birthday": "June 10, 1990",
+        "language":
+        {
+            "RU": { "title": "Фанни Негёша" }
+        }
+    },
+    "Beyoncé":
+    {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language":
+        {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "European Bombshell":
+    {
+        "foot_type": "Roman",
+        "country": "EU",
+        "insignia": "eurohouse",
+        "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Сексуальная европейка" }
+        }
+    },
+    "Katy Perry":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
+        "language":
+        {
+            "RU": { "title": "Кэти Перри" }
+        }
+    },
+    "European Wedding":
+    {
+        "insignia": "eurohouse",
+        "height": 0, "weight": 0,
+        "sizes": "X-X-X", "nsfw": "true",
+        "shoe_size": 0, "country": "EU",
+        "birthday": "",
+        "language":
+        {
+            "RU": { "title": "Европейская свадьба" }
+        }
+    },
+    "Italian Feet":
+    {
+        "foot_type": "Roman",
+        "insignia": "eurohouse",
+        "height": 0, "weight": 0,
+        "sizes": "0-0-0", "nsfw": "true",
+        "shoe_size": 0, "country": "IT",
+        "birthday": "",
+        "language":
+        {
+            "RU": { "title": "Ноги итальянки" }
+        }
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "June 26, 1993",
+        "language":
+        {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language":
+        {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7, "weight": 63,
+        "sizes": "94-66-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "BE",
+        "birthday": "October 26, 1994",
+        "language":
+        {
+            "RU": { "title": "Роза Бертрам" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    }
+}
