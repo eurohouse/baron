@@ -5,9 +5,9 @@
         "language":
         {
             "RU": "Неделя моды а Париже [semester]",
-            "JP": "巴黎时装周[semester]",
-            "KR": "巴黎时装周[semester]",
-            "CN": "巴黎时装周[semester]",
+            "JP": "巴黎时装周（[semester]）",
+            "KR": "巴黎时装周（[semester]）",
+            "CN": "巴黎时装周（[semester]）",
             "AE": "أسبوع الموضة في باريس"
         }
     },
