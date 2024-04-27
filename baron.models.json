@@ -47,7 +47,6 @@
     {
         "foot_type": "Roman",
         "country": "EU",
-        "insignia": "eurohouse",
         "nsfw": "true",
         "language":
         {
@@ -67,11 +66,8 @@
     },
     "European Wedding":
     {
-        "insignia": "eurohouse",
-        "height": 0, "weight": 0,
-        "sizes": "X-X-X", "nsfw": "true",
-        "shoe_size": 0, "country": "EU",
-        "birthday": "",
+        "nsfw": "true",
+        "country": "EU",
         "language":
         {
             "RU": { "title": "Европейская свадьба" }
@@ -80,10 +76,8 @@
     "Italian Feet":
     {
         "foot_type": "Roman",
-        "insignia": "eurohouse",
-        "height": 0, "weight": 0,
-        "sizes": "0-0-0", "nsfw": "true",
-        "shoe_size": 0, "country": "IT",
+        "nsfw": "true",
+        "country": "IT",
         "birthday": "",
         "language":
         {
