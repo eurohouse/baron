@@ -127,5 +127,40 @@
         {
             "RU": { "title": "Одри Хепберн" }
         }
+    },
+    "CHANEL № 5":
+    {
+        "country": "FR",
+        "insignia": "chanel",
+        "maison": "https://www.chanel.com",
+        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
+    },
+    "Le Grand Trianon":
+    {
+        "insignia": "palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
+        "language":
+        {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "Большой Трианон был построен Жюлем Ардуэном-Мансаром в 1687 году на месте бывшего «Фарфорового Трианона». Большой Трианон, построенный по заказу Людовика XIV в 1670 году, чтобы уйти от тяжелой пышной жизни при дворе и заняться романом с мадам де Монтеспан, является, пожалуй, самым изысканным архитектурным ансамблем королевского поместья Версаля."
+            }
+        }
+    },
+    "Le Petit Trianon":
+    {
+        "insignia": "palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language":
+        {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
+        }
     }
 }
