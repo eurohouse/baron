@@ -1,4 +1,25 @@
 {
+    "Orient Express":
+    {
+        "country": "EU",
+        "insignia": "express",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits (The International Sleeping Car company) These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe."
+    },
+    "CHANEL № 5":
+    {
+        "country": "FR",
+        "insignia": "chanel",
+        "maison": "https://www.chanel.com",
+        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
+    },
+    "Palais Garnier":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "maison": "https://www.operadeparis.fr",
+        "memoir": "From 1821 to 1873, the Opera settled in the theatre Le Peletier, where the Institution enjoyed a time of prosperity during which the French “Grand Opera” genre and the Romantic ballet blossomed. But a fire destroyed the Le Peletier hall, and so a new Opera House was inaugurated in 1875, called the Palais Garnier."
+    },
     "Angelina Jolie":
     {
         "height": 1.69, "weight": 54,
@@ -9,6 +30,20 @@
         {
             "RU": { "title": "Анджелина Джоли" }
         }
+    },
+    "Simplon-Orient-Express in 1919":
+    {
+        "country": "EU",
+        "insignia": "express",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Orient-Express unveiled the midnight blue cars of the first Simplon-Orient-Express train. For the first time ever, Paris connected Istanbul via Milan and Venice, and crossed the Simplon tunnel. This technological feat opened a new route through the Alps."
+    },
+    "Orient-Express in 1926 - 1929":
+    {
+        "country": "EU",
+        "insignia": "express",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Designed by decorator René Prou and master glassmaker René Lalique, the new Pullman lounge cars inspired a new art of living on board. These masterpieces of refinement and luxury in Art Deco style embodied the excellence of French travel."
     },
     "Victoria Justice":
     {
@@ -21,6 +56,13 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
+    "Murder on the Orient Express":
+    {
+        "country": "EU",
+        "insignia": "express",
+        "maison": "https://www.orient-express.com",
+        "memoir": "On January 1st, Murder on the Orient Express was published. This mystery novel written by the star of suspense, Agatha Christie, quickly gained a cult following, inspiring numerous film adaptations and feeding the imaginations of travelers for nearly a century."
+    },
     "Fanny Neguesha":
     {
         "height": 1.73, "weight": 56,
@@ -32,6 +74,13 @@
             "RU": { "title": "Фанни Негёша" }
         }
     },
+    "Venice-Simplon-Orient-Express":
+    {
+        "country": "EU",
+        "insignia": "express",
+        "maison": "https://www.orient-express.com",
+        "memoir": "On May 20th, the Orient-Express made its last direct trip between Paris and Istanbul. The development of the air travel market at the end of the 20th century was a blow to the Compagnie Internationale des Wagons-Lits, who was forced to sell some of its cars at auction."
+    },
     "Beyoncé":
     {
         "height": 1.7, "weight": 62,
@@ -41,6 +90,19 @@
         "language":
         {
             "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Napoleon campaign in Egypt":
+    {
+        "country": "FR",
+        "memoir": "On a scientific front, the expedition was a success that led to the discovery of the Rosetta Stone, creating the field of Egyptology. Despite early victories and an initially successful expedition into Syria, Napoleon and his Armée d'Orient were eventually defeated and forced to withdraw, especially after suffering the defeat of the supporting French fleet by the British Royal Navy at the Battle of the Nile.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Египетский поход Наполеона",
+                "memoir": "На научном фронте экспедиция имела успех, который привел к открытию Розеттского камня, что положило начало области египтологии. Несмотря на ранние победы и первоначально успешную экспедицию в Сирию, Наполеон и его Армия Востока в конечном итоге потерпели поражение и были вынуждены отступить, особенно после поражения поддерживающего французского флота от британского Королевского флота в битве на Ниле."
+            }
         }
     },
     "European Bombshell":
@@ -78,11 +140,43 @@
         "foot_type": "Roman",
         "nsfw": "true",
         "country": "IT",
-        "birthday": "",
         "language":
         {
             "RU": { "title": "Ноги итальянки" }
         }
+    },
+    "Operation Barbarossa":
+    {
+        "country": "DE",
+        "memoir": "On June 22, 1941, Hitler ordered the invasion of the Soviet Union, codenamed Operation Barbarossa. Though Soviet tanks and aircraft greatly outnumbered the Germans’, Russian aviation technology was largely obsolete, and the impact of the surprise invasion helped Germans get within 200 miles of Moscow by mid-July. Arguments between Hitler and his commanders delayed the next German advance until October, when it was stalled by a Soviet counteroffensive and the onset of harsh winter weather.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Операция Барбаросса",
+                "memoir": "22 июня 1941 года Гитлер приказал вторгнуться в Советский Союз под кодовым названием «Операция Барбаросса». Хотя советские танки и самолеты значительно превосходили немцев по численности, российская авиационная техника в значительной степени устарела, а последствия внезапного вторжения помогли немцам к середине июля приблизиться к Москве на расстояние 200 миль. Споры между Гитлером и его командирами отложили следующее немецкое наступление до октября, когда оно было остановлено советским контрнаступлением и наступлением суровой зимней погоды."
+            }
+        }
+    },
+    "Third Battle of Ypres":
+    {
+        "country": "BE",
+        "memoir": "On July 31, 1917, the Allies launch a renewed assault on German lines in the Flanders region of Belgium, in the much-contested region near Ypres, during World War I. The attack begins more than three months of brutal fighting, known as the Third Battle of Ypres.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Битва при Пашендейле",
+                "memoir": "31 июля 1917 года союзники начинают новое наступление на немецкие позиции во Фландрии в Бельгии, в спорном регионе недалеко от Ипра во время Первой мировой войны. Нападение начинается с более чем трехмесячных жестоких боев, известных как Третья битва при Ипре."
+            }
+        }
+    },
+    "007 ELEMENTS":
+    {
+        "country": "AT",
+        "insignia": "007",
+        "maison": "https://www.007.com",
+        "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise."
     },
     "Ariana Grande":
     {
@@ -93,6 +187,34 @@
         "language":
         {
             "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Le Grand Trianon":
+    {
+        "insignia": "palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
+        "language":
+        {
+            "RU": {
+                "title": "Большой Трианон",
+                "memoir": "Большой Трианон был построен Жюлем Ардуэном-Мансаром в 1687 году на месте бывшего «Фарфорового Трианона». Большой Трианон, построенный по заказу Людовика XIV в 1670 году, чтобы уйти от тяжелой пышной жизни при дворе и заняться романом с мадам де Монтеспан, является, пожалуй, самым изысканным архитектурным ансамблем королевского поместья Версаля."
+            }
+        }
+    },
+    "Le Petit Trianon":
+    {
+        "insignia": "palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language":
+        {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
         }
     },
     "Brigitte Bardot":
@@ -128,39 +250,12 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
-    "CHANEL № 5":
+    "The musée du Louvre":
     {
+        "setting": "La Belle Époque",
         "country": "FR",
-        "insignia": "chanel",
-        "maison": "https://www.chanel.com",
-        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
-    },
-    "Le Grand Trianon":
-    {
-        "insignia": "palace",
-        "country": "FR",
-        "maison": "https://www.chateauversailles.fr",
-        "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
-        "language":
-        {
-            "RU": {
-                "title": "Малый Трианон",
-                "memoir": "Большой Трианон был построен Жюлем Ардуэном-Мансаром в 1687 году на месте бывшего «Фарфорового Трианона». Большой Трианон, построенный по заказу Людовика XIV в 1670 году, чтобы уйти от тяжелой пышной жизни при дворе и заняться романом с мадам де Монтеспан, является, пожалуй, самым изысканным архитектурным ансамблем королевского поместья Версаля."
-            }
-        }
-    },
-    "Le Petit Trianon":
-    {
-        "insignia": "palace",
-        "country": "FR",
-        "maison": "https://www.chateauversailles.fr",
-        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
-        "language":
-        {
-            "RU": {
-                "title": "Малый Трианон",
-                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
-            }
-        }
+        "insignia": "louvre",
+        "maison": "https://www.louvre.fr",
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
     }
 }
