@@ -95,6 +95,7 @@
     "Napoleon campaign in Egypt":
     {
         "country": "FR",
+        "insignia": "louvre",
         "memoir": "On a scientific front, the expedition was a success that led to the discovery of the Rosetta Stone, creating the field of Egyptology. Despite early victories and an initially successful expedition into Syria, Napoleon and his Armée d'Orient were eventually defeated and forced to withdraw, especially after suffering the defeat of the supporting French fleet by the British Royal Navy at the Battle of the Nile.",
         "language":
         {
