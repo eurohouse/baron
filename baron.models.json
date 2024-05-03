@@ -1,4 +1,12 @@
 {
+    "Eiffel Tower":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "toureiffel",
+        "maison": "https://www.toureiffel.paris",
+        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
+    },
     "Mermaid Inn":
     {
         "country": "GB",
@@ -128,6 +136,21 @@
         "language":
         {
             "RU": { "title": "Сексуальная европейка" }
+        }
+    },
+    "Bayeux Tapestry":
+    {
+        "country": "FR",
+        "insignia": "knight",
+        "maison": "https://www.bayeuxmuseum.com",
+        "memoir": "Step into the engrossing story of the conquest of England by William, Duke of Normandy in 1066, told in a 70 meters long embroidery. With a visit to the museum, you can discover the complete Bayeux Tapestry, study it close up without causing damage to it, and understand its history and how it was created thanks to an audio-guide commentary available in 16 languages. A commentary for children is also available in French and English. A permanent exhibition on the first floor will enrich your visit.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Гобелен из Байё",
+                "memoir": "Окунитесь в захватывающую историю завоевания Англии Вильгельмом, герцогом Нормандии в 1066 году, рассказанную на вышивке длиной 70 метров. Посетив музей, вы сможете открыть для себя весь гобелен из Байе, изучить его вблизи, не причиняя ему вреда, а также понять его историю и то, как он был создан, благодаря комментариям аудиогида, доступным на 16 языках. Комментарии для детей также доступны на французском и английском языках. Постоянная выставка на первом этаже обогатит ваш визит."
+            }
         }
     },
     "Katy Perry":
