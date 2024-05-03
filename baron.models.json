@@ -1,4 +1,35 @@
 {
+    "Medici Fountain":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "fleurdelis",
+        "memoir": "The period between the regency of Catherine de' Medici in France (1559-1589) and that of Marie de' Medici (1610-1642) saw a great flourishing of the Italian mannerist style in France. This community of artists from Florence, including the sculptor Francesco Bordoni, helped design the statue of King Henry IV of France built on the Pont Neuf.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Фонтан Медичи",
+                "memoir": "Период между регентством Екатерины Медичи во Франции (1559-1589) и Марии Медичи (1610-1642) стал периодом расцвета итальянского маньеристского стиля во Франции. Это сообщество художников из Флоренции, в том числе скульптор Франческо Бордони, помогло спроектировать статую короля Франции Генриха IV, построенную на Новом мосту."
+            }
+        }
+    },
+    "Château de Versailles":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "palace",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Версальский дворец",
+                "memoir": "Посетители, глядя через центральное окно Зеркального зала, увидят Большую перспективу, уходящую к горизонту от Водного партера. Эта уникальная перспектива с востока на запад возникла еще до правления Людовика XIV, но она была развита и расширена садовником Андре Ле Нотром, который расширил Королевский путь и выкопал Большой канал."
+            }
+        }
+    },
     "Eiffel Tower":
     {
         "setting": "La Belle Époque",
