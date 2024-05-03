@@ -1,4 +1,18 @@
 {
+    "Mermaid Inn":
+    {
+        "country": "GB",
+        "insignia": "mermaid",
+        "maison": "https://www.mermaidinn.com",
+        "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
+        "language":
+        {
+            "RU":
+            {
+                "memoir": "Средневековая цитадель, защищенная от захватчиков и моря, Рай мягко раскрывает свою историю. Сегодня здесь находится множество произведений искусства, диковинок и уютных пабов, а также современные бутик-отели и современные рестораны, предлагающие лучшее, что может предложить Сассекс, с суши и с моря. Построенный на контрабандных тайнах и вневременных историях, Рай имеет укромные уголки, которые можно исследовать, и далекие виды на Ромни-Марш, над которыми стоит задуматься."
+            }
+        }
+    },
     "Orient Express":
     {
         "country": "EU",
