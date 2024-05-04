@@ -14,6 +14,21 @@
             }
         }
     },
+    "Parisian Decor":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "The Parisian-style decor is just spectacular. With high ceilings, tall windows, carved moldings (\"moulures\"), marble fireplaces, herringbone parquet floors, and wall panelings (\"boiseries\"), Parisian apartments have truly charming architectural details. And Parisians know exactly how to sublime these exquisite architectural elements with just a few decor pieces and by following specific interior styling rules. Sophisticated and elegant, the Parisian style decor is timeless.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Парижский декор",
+                "memoir": "Декор в парижском стиле просто потрясающий. Парижские квартиры с высокими потолками, высокими окнами, резной лепниной («мулюры»), мраморными каминами, паркетными полами «елочкой» и настенными панелями («буазери») имеют поистине очаровательные архитектурные детали. И парижане точно знают, как возвысить эти изысканные архитектурные элементы с помощью всего лишь нескольких предметов декора и следуя определенным правилам оформления интерьера. Изысканный и элегантный декор в парижском стиле вне времени."
+            }
+        }
+    },
     "Château de Versailles":
     {
         "setting": "La Belle Époque",
