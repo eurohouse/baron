@@ -14,6 +14,36 @@
             }
         }
     },
+    "Rule The World":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU",
+        "insignia": "nobility",
+        "memoir": "It's just fascinating. In 1914, really only China, Japan, and the Ottoman Empire had escaped becoming European colonies. A thousand years ago, no one would have ever expected that result, for at that point western Europe was hopelessly backward. It was politically weak, it was poor, and the major long-distance commerce was a slave trade led by Vikings. The political dominance of western Europe was an unexpected outcome and had really big consequences, so I thought: let's explain it.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Европа правит миром",
+                "memoir": "Это просто увлекательно. В 1914 году только Китаю, Японии и Османской империи удалось избежать превращения в европейские колонии. Тысячу лет назад никто бы не ожидал такого результата, поскольку в тот момент Западная Европа была безнадежно отсталой. Оно было политически слабым и бедным, а основной торговлей на дальние расстояния была работорговля, возглавляемая викингами. Политическое доминирование Западной Европы было неожиданным результатом и имело действительно большие последствия, поэтому я подумал: давайте объясним это."
+            }
+        }
+    },
+    "Haussmann Architecture":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "The Haussmann style of architecture, which is also known as Haussmannian, is the architecture that has defined modern-day Paris. In the 19th century, Baron Georges-Eugène Haussmann, a Parisian official with no architectural background, revamped the city at the request of Emperor Napoleon III. Haussmann assumed the role, Prefect of the Seine Department, and managed this vast project, which became known as the “Haussmann Renovation of Paris.” This comprehensive urban renewal program spanned from 1853 to 1870, with the construction continuing through 1927.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Архитектура барона Османа",
+                "memoir": "Архитектурный стиль Османа, также известный как османский стиль, является архитектурой, которая определила современный Париж. В 19 веке барон Жорж-Эжен Осман, парижский чиновник без архитектурного образования, реконструировал город по просьбе императора Наполеона III. Осман взял на себя роль префекта департамента Сены и руководил этим обширным проектом, который стал известен как «Османовская реконструкция Парижа». Эта комплексная программа обновления города охватывала период с 1853 по 1870 год, а строительство продолжалось до 1927 года."
+            }
+        }
+    },
     "Parisian Decor":
     {
         "setting": "La Belle Époque",
@@ -26,6 +56,21 @@
             {
                 "title": "Парижский декор",
                 "memoir": "Декор в парижском стиле просто потрясающий. Парижские квартиры с высокими потолками, высокими окнами, резной лепниной («мулюры»), мраморными каминами, паркетными полами «елочкой» и настенными панелями («буазери») имеют поистине очаровательные архитектурные детали. И парижане точно знают, как возвысить эти изысканные архитектурные элементы с помощью всего лишь нескольких предметов декора и следуя определенным правилам оформления интерьера. Изысканный и элегантный декор в парижском стиле вне времени."
+            }
+        }
+    },
+    "Vanity Fair":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "handfan",
+        "memoir": "In London in 1814, Rebecca Sharp (\"Becky\"), daughter of an art teacher and a French dancer, is a strong-willed, cunning, moneyless young woman determined to make her way in society. After leaving school, Becky stays with her friend Amelia Sedley (\"Emmy\"), who is a good-natured, simple-minded young girl, of a wealthy London family. There, Becky meets the dashing and self-obsessed Captain George Osborne (Amelia's betrothed) and Amelia's brother Joseph (\"Jos\") Sedley, a clumsy and vainglorious but rich civil servant home from the East India Company. Hoping to marry Sedley, the richest young man she has met, Becky entices him, but she fails. George Osborne's friend Captain William Dobbin loves Amelia, but only wishes her happiness, which is centred on George.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Ярмарка тщеславия",
+                "memoir": "В Лондоне в 1814 году Ребекка Шарп («Бекки»), дочь учителя рисования и французской танцовщицы, волевая, хитрая, бедная молодая женщина, решившая пробиться в обществе. После окончания школы Бекки остается со своей подругой Амелией Седли («Эмми»), добродушной и простодушной молодой девушкой из богатой лондонской семьи. Там Бекки знакомится с лихим и самовлюбленным капитаном Джорджем Осборном (женихом Амелии) и братом Амелии Джозефом («Джос») Седли, неуклюжим и тщеславным, но богатым государственным служащим из Ост-Индской компании. Надеясь выйти замуж за Седли, самого богатого молодого человека, которого она встречала, Бекки соблазняет его, но ей это не удается. Друг Джорджа Осборна, капитан Уильям Доббин, любит Амелию, но желает ей только счастья, в центре которого находится Джордж."
             }
         }
     },
@@ -258,6 +303,7 @@
     {
         "nsfw": "true",
         "country": "EU",
+        "insignia": "mistress",
         "language":
         {
             "RU": { "title": "Европейская свадьба" }
