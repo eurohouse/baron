@@ -81,6 +81,50 @@
         "maison": "https://www.chanel.com",
         "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
     },
+    "Zermatt Matterhorn":
+    {
+        "country": "CH",
+        "insignia": "louvre",
+        "maison": "https://www.zermatt.ch/en/matterhorn",
+        "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Церматт Маттерхорн",
+                "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
+            }
+        }
+    },
+    "Zentralen Ostalpen":
+    {
+        "country": "AT",
+        "insignia": "express",
+        "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Центрально-Восточные Альпы",
+                "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
+            }
+        }
+    },
+    "Oslo Fjord":
+    {
+        "country": "NO",
+        "insignia": "ironcross",
+        "maison": "https://www.visitoslo.com",
+        "memoir": "The 100-km-long Oslo fjord is the scenic gem of the Oslo area. In the summer, the fjord buzzes with life and activity. You can go swimming, hike among the colourful cabins on the islands or glide over the waves on a SUP-board. In the winter months, you can still go for a swim - but you may want to step into one of the many fjordside saunas before and after.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Фьорд Осло",
+                "memoir": "Фьорд Осло длиной 100 км — живописная жемчужина района Осло. Летом фьорд кипит жизнью и деятельностью. Вы можете искупаться, прогуляться среди красочных домиков на островах или покататься по волнам на SUP-доске. В зимние месяцы вы все еще можете искупаться, но, возможно, вам захочется зайти в одну из многочисленных саун на берегу фьорда до и после."
+            }
+        }
+    },
     "Palais Garnier":
     {
         "country": "FR",
