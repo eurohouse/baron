@@ -126,6 +126,20 @@
         "maison": "https://www.chanel.com",
         "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
     },
+    "European Café Culture":
+    {
+        "country": "EU",
+        "insignia": "coffee",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
+        }
+    },
     "Zermatt Matterhorn":
     {
         "country": "CH",
