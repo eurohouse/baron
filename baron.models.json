@@ -445,5 +445,33 @@
         "insignia": "louvre",
         "maison": "https://www.louvre.fr",
         "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language":
+        {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
+    "Eva Darling":
+    {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
+        "language":
+        {
+            "RU": { "title": "Ева Дарлин" }
+        }
+    },
+    "Tiffany Haddish":
+    {
+        "country": "US", "nsfw": "true",
+        "birthday": "December 3, 1979",
+        "language": {
+            "RU": { "title": "Тиффани Хаддиш" }
+        }
     }
 }
