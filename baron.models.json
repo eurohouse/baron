@@ -473,5 +473,27 @@
         "language": {
             "RU": { "title": "Тиффани Хаддиш" }
         }
+    },
+    "Rosie Huntington-Whiteley":
+    {
+        "height": 1.75, "weight": 54,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 9, "country": "GB",
+        "birthday": "April 18, 1987",
+        "language":
+        {
+            "RU": { "title": "Роузи Хантингтон-Уайтли" }
+        }
+    },
+    "Elena Gheorghe":
+    {
+        "height": 1.6, "weight": 0,
+        "sizes": "0-0-0", "nsfw": "true",
+        "shoe_size": 7.5, "country": "RO",
+        "birthday": "July 30, 1985",
+        "language":
+        {
+            "RU": { "title": "Елена Георге" }
+        }
     }
 }
