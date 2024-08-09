@@ -366,6 +366,34 @@
         "maison": "https://www.007.com",
         "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise."
     },
+    "Palace Ballroom":
+    {
+        "country": "EU",
+        "insignia": "piano",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Бал в Царскосельском дворце",
+                "memoir": "Звуки полонеза, вальса, мазурки, кадрили, польки оживили стены Дворца бракосочетания № 3 в Царском Селе 18 февраля 2015 года. Зимним вечером особняк В.П. Кочубея на несколько часов словно вернулся на 200 лет назад в эпоху торжества победы русского народа в Отечественной войне 1812 года. Двери дворца были  гостеприимно распахнуты для исторической реконструкции бала, посвященного 150-летию публикации  романа Л.Н. Толстого «Война и мир» в честь Года литературы, объявленного в России в 2015 году. Бал был проведен совместно с Домом молодежи «Царскосельский», Первым кадетским корпусом пограничных войск ФСБ России и  Военно-морским инженерным институтом г. Пушкина."
+            }
+        },
+        "memoir": "The sounds of polonaise, waltz, mazurka, quadrille, polka enlivened the walls of Wedding Palace No. 3 in Tsarskoye Selo on February 18, 2015. On a winter evening, the mansion of V.P. Kochubey seemed to return for several hours 200 years back in time to the era of the triumph of the Russian people's victory in the Patriotic War of 1812. The doors of the palace were hospitably opened for a historical reconstruction of the ball dedicated to the 150th anniversary of the publication of L.N. Tolstoy's novel War and Peace in honor of the Year of Literature declared in Russia in 2015. The ball was held jointly with the Tsarskoye Selo Youth House, the First Cadet Corps of the Border Troops of the FSB of Russia and the Pushkin Naval Engineering Institute."
+    },
+    "Scramble for Africa":
+    {
+        "country": "EU",
+        "insignia": "balloon",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Колониальный раздел Африки",
+                "memoir": "Разде́л А́фрики, также гонка за Африку, драка за Африку, был совершён семью западноевропейскими империалистическими державами в течение короткого периода — между 1881 и 1914 годами, в рамках нового империализма. Сопровождался острой конкуренцией за проведение в Африке исследовательских работ и военных операций, в конечном счёте направленных на захват колониальных территорий. У европейских колонизаторов было множество мотивов, в том числе стремление к ценным ресурсам, доступным на всём континенте, укрепление национального авторитета, напряжённость в отношениях между европейскими державами, религиозное миссионерское рвение и внутренняя политика африканских стран. В 1870 году под формальным европейским контролем находилось 10 % территории Африки, а в 1914 году — уже почти 90 % (независимыми остались только Эфиопия и Либерия). Позже Эфиопия будет захвачена и оккупирована Италией в 1936 году."
+            }
+        },
+        "memoir": "The Scramble for Africa was the conquest and colonisation of most of Africa by seven Western European powers driven by the Second Industrial Revolution during the era of \"New Imperialism\" (1833-1914): Belgium, France, Germany, Great Britain, Italy, Portugal and Spain. In 1870, 10% of the continent was formally under European control. By 1914, this figure had risen to almost 90%, with only Liberia and Ethiopia retaining sovereignty, along with Egba, Senusiyya, Mbunda, and the Ovambo kingdoms, which were later conquered."
+    },
     "Ariana Grande":
     {
         "height": 1.55, "weight": 44,
