@@ -1,0 +1,488 @@
+{
+    "Palace Ballroom":
+    {
+        "country": "EU",
+        "insignia": "Harp",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Бал в Царскосельском дворце",
+                "memoir": "Звуки полонеза, вальса, мазурки, кадрили, польки оживили стены Дворца бракосочетания № 3 в Царском Селе 18 февраля 2015 года. Зимним вечером особняк В.П. Кочубея на несколько часов словно вернулся на 200 лет назад в эпоху торжества победы русского народа в Отечественной войне 1812 года. Двери дворца были  гостеприимно распахнуты для исторической реконструкции бала, посвященного 150-летию публикации  романа Л.Н. Толстого «Война и мир» в честь Года литературы, объявленного в России в 2015 году. Бал был проведен совместно с Домом молодежи «Царскосельский», Первым кадетским корпусом пограничных войск ФСБ России и  Военно-морским инженерным институтом г. Пушкина."
+            }
+        },
+        "memoir": "The sounds of polonaise, waltz, mazurka, quadrille, polka enlivened the walls of Wedding Palace No. 3 in Tsarskoye Selo on February 18, 2015. On a winter evening, the mansion of V.P. Kochubey seemed to return for several hours 200 years back in time to the era of the triumph of the Russian people's victory in the Patriotic War of 1812. The doors of the palace were hospitably opened for a historical reconstruction of the ball dedicated to the 150th anniversary of the publication of L.N. Tolstoy's novel War and Peace in honor of the Year of Literature declared in Russia in 2015. The ball was held jointly with the Tsarskoye Selo Youth House, the First Cadet Corps of the Border Troops of the FSB of Russia and the Pushkin Naval Engineering Institute."
+    },
+    "Medici Fountain":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "Mistress",
+        "memoir": "The period between the regency of Catherine de' Medici in France (1559-1589) and that of Marie de' Medici (1610-1642) saw a great flourishing of the Italian mannerist style in France. This community of artists from Florence, including the sculptor Francesco Bordoni, helped design the statue of King Henry IV of France built on the Pont Neuf.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Фонтан Медичи",
+                "memoir": "Период между регентством Екатерины Медичи во Франции (1559-1589) и Марии Медичи (1610-1642) стал периодом расцвета итальянского маньеристского стиля во Франции. Это сообщество художников из Флоренции, в том числе скульптор Франческо Бордони, помогло спроектировать статую короля Франции Генриха IV, построенную на Новом мосту."
+            }
+        }
+    },
+    "Rule The World":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU",
+        "insignia": "Nobility",
+        "memoir": "It's just fascinating. In 1914, really only China, Japan, and the Ottoman Empire had escaped becoming European colonies. A thousand years ago, no one would have ever expected that result, for at that point western Europe was hopelessly backward. It was politically weak, it was poor, and the major long-distance commerce was a slave trade led by Vikings. The political dominance of western Europe was an unexpected outcome and had really big consequences, so I thought: let's explain it.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Европа правит миром",
+                "memoir": "Это просто увлекательно. В 1914 году только Китаю, Японии и Османской империи удалось избежать превращения в европейские колонии. Тысячу лет назад никто бы не ожидал такого результата, поскольку в тот момент Западная Европа была безнадежно отсталой. Оно было политически слабым и бедным, а основной торговлей на дальние расстояния была работорговля, возглавляемая викингами. Политическое доминирование Западной Европы было неожиданным результатом и имело действительно большие последствия, поэтому я подумал: давайте объясним это."
+            }
+        }
+    },
+    "Haussmann Architecture":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "Palace",
+        "memoir": "The Haussmann style of architecture, which is also known as Haussmannian, is the architecture that has defined modern-day Paris. In the 19th century, Baron Georges-Eugène Haussmann, a Parisian official with no architectural background, revamped the city at the request of Emperor Napoleon III. Haussmann assumed the role, Prefect of the Seine Department, and managed this vast project, which became known as the “Haussmann Renovation of Paris.” This comprehensive urban renewal program spanned from 1853 to 1870, with the construction continuing through 1927.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Архитектура барона Османа",
+                "memoir": "Архитектурный стиль Османа, также известный как османский стиль, является архитектурой, которая определила современный Париж. В 19 веке барон Жорж-Эжен Осман, парижский чиновник без архитектурного образования, реконструировал город по просьбе императора Наполеона III. Осман взял на себя роль префекта департамента Сены и руководил этим обширным проектом, который стал известен как «Османовская реконструкция Парижа». Эта комплексная программа обновления города охватывала период с 1853 по 1870 год, а строительство продолжалось до 1927 года."
+            }
+        }
+    },
+    "Parisian Decor":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "TheLady",
+        "memoir": "The Parisian-style decor is just spectacular. With high ceilings, tall windows, carved moldings (\"moulures\"), marble fireplaces, herringbone parquet floors, and wall panelings (\"boiseries\"), Parisian apartments have truly charming architectural details. And Parisians know exactly how to sublime these exquisite architectural elements with just a few decor pieces and by following specific interior styling rules. Sophisticated and elegant, the Parisian style decor is timeless.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Парижский декор",
+                "memoir": "Декор в парижском стиле просто потрясающий. Парижские квартиры с высокими потолками, высокими окнами, резной лепниной («мулюры»), мраморными каминами, паркетными полами «елочкой» и настенными панелями («буазери») имеют поистине очаровательные архитектурные детали. И парижане точно знают, как возвысить эти изысканные архитектурные элементы с помощью всего лишь нескольких предметов декора и следуя определенным правилам оформления интерьера. Изысканный и элегантный декор в парижском стиле вне времени."
+            }
+        }
+    },
+    "Vanity Fair":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "HandFan",
+        "memoir": "In London in 1814, Rebecca Sharp (\"Becky\"), daughter of an art teacher and a French dancer, is a strong-willed, cunning, moneyless young woman determined to make her way in society. After leaving school, Becky stays with her friend Amelia Sedley (\"Emmy\"), who is a good-natured, simple-minded young girl, of a wealthy London family. There, Becky meets the dashing and self-obsessed Captain George Osborne (Amelia's betrothed) and Amelia's brother Joseph (\"Jos\") Sedley, a clumsy and vainglorious but rich civil servant home from the East India Company. Hoping to marry Sedley, the richest young man she has met, Becky entices him, but she fails. George Osborne's friend Captain William Dobbin loves Amelia, but only wishes her happiness, which is centred on George.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Ярмарка тщеславия",
+                "memoir": "В Лондоне в 1814 году Ребекка Шарп («Бекки»), дочь учителя рисования и французской танцовщицы, волевая, хитрая, бедная молодая женщина, решившая пробиться в обществе. После окончания школы Бекки остается со своей подругой Амелией Седли («Эмми»), добродушной и простодушной молодой девушкой из богатой лондонской семьи. Там Бекки знакомится с лихим и самовлюбленным капитаном Джорджем Осборном (женихом Амелии) и братом Амелии Джозефом («Джос») Седли, неуклюжим и тщеславным, но богатым государственным служащим из Ост-Индской компании. Надеясь выйти замуж за Седли, самого богатого молодого человека, которого она встречала, Бекки соблазняет его, но ей это не удается. Друг Джорджа Осборна, капитан Уильям Доббин, любит Амелию, но желает ей только счастья, в центре которого находится Джордж."
+            }
+        }
+    },
+    "Château de Versailles":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "Palace",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Версальский дворец",
+                "memoir": "Посетители, глядя через центральное окно Зеркального зала, увидят Большую перспективу, уходящую к горизонту от Водного партера. Эта уникальная перспектива с востока на запад возникла еще до правления Людовика XIV, но она была развита и расширена садовником Андре Ле Нотром, который расширил Королевский путь и выкопал Большой канал."
+            }
+        }
+    },
+    "Eiffel Tower":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "EiffelTower",
+        "maison": "https://www.toureiffel.paris",
+        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
+    },
+    "Mermaid Inn":
+    {
+        "country": "GB",
+        "insignia": "Mermaid",
+        "maison": "https://www.mermaidinn.com",
+        "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
+        "language":
+        {
+            "RU":
+            {
+                "memoir": "Средневековая цитадель, защищенная от захватчиков и моря, Рай мягко раскрывает свою историю. Сегодня здесь находится множество произведений искусства, диковинок и уютных пабов, а также современные бутик-отели и современные рестораны, предлагающие лучшее, что может предложить Сассекс, с суши и с моря. Построенный на контрабандных тайнах и вневременных историях, Рай имеет укромные уголки, которые можно исследовать, и далекие виды на Ромни-Марш, над которыми стоит задуматься."
+            }
+        }
+    },
+    "Orient Express":
+    {
+        "country": "EU",
+        "insignia": "OrientExpress",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits (The International Sleeping Car company) These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe."
+    },
+    "CHANEL N°5":
+    {
+        "country": "FR",
+        "insignia": "Chanel",
+        "maison": "https://www.chanel.com",
+        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
+    },
+    "European Café Culture":
+    {
+        "country": "EU",
+        "insignia": "Coffee",
+        "maison": "https://coffeeaffection.com/european-coffee-culture",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
+        }
+    },
+    "Zermatt Matterhorn":
+    {
+        "country": "CH",
+        "insignia": "Louvre",
+        "maison": "https://www.zermatt.ch/en/matterhorn",
+        "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Церматт Маттерхорн",
+                "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
+            }
+        }
+    },
+    "Zentralen Ostalpen":
+    {
+        "country": "AT",
+        "insignia": "OrientExpress",
+        "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Центрально-Восточные Альпы",
+                "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
+            }
+        }
+    },
+    "Oslo Fjord":
+    {
+        "country": "NO",
+        "insignia": "Harp",
+        "maison": "https://www.visitoslo.com",
+        "memoir": "The 100-km-long Oslo fjord is the scenic gem of the Oslo area. In the summer, the fjord buzzes with life and activity. You can go swimming, hike among the colourful cabins on the islands or glide over the waves on a SUP-board. In the winter months, you can still go for a swim - but you may want to step into one of the many fjordside saunas before and after.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Фьорд Осло",
+                "memoir": "Фьорд Осло длиной 100 км — живописная жемчужина района Осло. Летом фьорд кипит жизнью и деятельностью. Вы можете искупаться, прогуляться среди красочных домиков на островах или покататься по волнам на SUP-доске. В зимние месяцы вы все еще можете искупаться, но, возможно, вам захочется зайти в одну из многочисленных саун на берегу фьорда до и после."
+            }
+        }
+    },
+    "Palais Garnier":
+    {
+        "country": "FR",
+        "insignia": "Palace",
+        "maison": "https://www.operadeparis.fr",
+        "memoir": "From 1821 to 1873, the Opera settled in the theatre Le Peletier, where the Institution enjoyed a time of prosperity during which the French “Grand Opera” genre and the Romantic ballet blossomed. But a fire destroyed the Le Peletier hall, and so a new Opera House was inaugurated in 1875, called the Palais Garnier."
+    },
+    "Angelina Jolie":
+    {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language":
+        {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
+    "Simplon-Orient-Express in 1919":
+    {
+        "country": "EU",
+        "insignia": "OrientExpress",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Orient-Express unveiled the midnight blue cars of the first Simplon-Orient-Express train. For the first time ever, Paris connected Istanbul via Milan and Venice, and crossed the Simplon tunnel. This technological feat opened a new route through the Alps."
+    },
+    "Orient-Express in 1926 - 1929":
+    {
+        "country": "EU",
+        "insignia": "OrientExpress",
+        "maison": "https://www.orient-express.com",
+        "memoir": "Designed by decorator René Prou and master glassmaker René Lalique, the new Pullman lounge cars inspired a new art of living on board. These masterpieces of refinement and luxury in Art Deco style embodied the excellence of French travel."
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Murder on the Orient Express":
+    {
+        "country": "EU",
+        "insignia": "OrientExpress",
+        "maison": "https://www.orient-express.com",
+        "memoir": "On January 1st, Murder on the Orient Express was published. This mystery novel written by the star of suspense, Agatha Christie, quickly gained a cult following, inspiring numerous film adaptations and feeding the imaginations of travelers for nearly a century."
+    },
+    "Fanny Neguesha":
+    {
+        "height": 1.73, "weight": 56,
+        "sizes": "86-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "BE",
+        "birthday": "June 10, 1990",
+        "language":
+        {
+            "RU": { "title": "Фанни Негёша" }
+        }
+    },
+    "Venice-Simplon-Orient-Express":
+    {
+        "country": "EU",
+        "insignia": "OrientExpress",
+        "maison": "https://www.orient-express.com",
+        "memoir": "On May 20th, the Orient-Express made its last direct trip between Paris and Istanbul. The development of the air travel market at the end of the 20th century was a blow to the Compagnie Internationale des Wagons-Lits, who was forced to sell some of its cars at auction."
+    },
+    "Beyoncé":
+    {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language":
+        {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Napoleon campaign in Egypt":
+    {
+        "country": "FR",
+        "insignia": "Louvre",
+        "memoir": "On a scientific front, the expedition was a success that led to the discovery of the Rosetta Stone, creating the field of Egyptology. Despite early victories and an initially successful expedition into Syria, Napoleon and his Armée d'Orient were eventually defeated and forced to withdraw, especially after suffering the defeat of the supporting French fleet by the British Royal Navy at the Battle of the Nile.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Египетский поход Наполеона",
+                "memoir": "На научном фронте экспедиция имела успех, который привел к открытию Розеттского камня, что положило начало области египтологии. Несмотря на ранние победы и первоначально успешную экспедицию в Сирию, Наполеон и его Армия Востока в конечном итоге потерпели поражение и были вынуждены отступить, особенно после поражения поддерживающего французского флота от британского Королевского флота в битве на Ниле."
+            }
+        }
+    },
+    "European Bombshell":
+    {
+        "foot_type": "Roman",
+        "country": "EU",
+        "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Сексуальная европейка" }
+        }
+    },
+    "Bayeux Tapestry":
+    {
+        "country": "FR",
+        "insignia": "Knight",
+        "maison": "https://www.bayeuxmuseum.com",
+        "memoir": "Step into the engrossing story of the conquest of England by William, Duke of Normandy in 1066, told in a 70 meters long embroidery. With a visit to the museum, you can discover the complete Bayeux Tapestry, study it close up without causing damage to it, and understand its history and how it was created thanks to an audio-guide commentary available in 16 languages. A commentary for children is also available in French and English. A permanent exhibition on the first floor will enrich your visit.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Гобелен из Байё",
+                "memoir": "Окунитесь в захватывающую историю завоевания Англии Вильгельмом, герцогом Нормандии в 1066 году, рассказанную на вышивке длиной 70 метров. Посетив музей, вы сможете открыть для себя весь гобелен из Байе, изучить его вблизи, не причиняя ему вреда, а также понять его историю и то, как он был создан, благодаря комментариям аудиогида, доступным на 16 языках. Комментарии для детей также доступны на французском и английском языках. Постоянная выставка на первом этаже обогатит ваш визит."
+            }
+        }
+    },
+    "Parisian Girl":
+    {
+        "country": "FR", "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Парижская девушка" }
+        }
+    },
+    "Katy Perry":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
+        "language":
+        {
+            "RU": { "title": "Кэти Перри" }
+        }
+    },
+    "European Wedding":
+    {
+        "nsfw": "true",
+        "country": "EU",
+        "insignia": "Mistress",
+        "language":
+        {
+            "RU": { "title": "Европейская свадьба" }
+        }
+    },
+    "Italian Feet":
+    {
+        "foot_type": "Roman",
+        "nsfw": "true",
+        "country": "IT",
+        "language":
+        {
+            "RU": { "title": "Ноги итальянки" }
+        }
+    },
+    "Operation Barbarossa":
+    {
+        "country": "DE",
+        "insignia": "IronCross",
+        "memoir": "On June 22, 1941, Hitler ordered the invasion of the Soviet Union, codenamed Operation Barbarossa. Though Soviet tanks and aircraft greatly outnumbered the Germans’, Russian aviation technology was largely obsolete, and the impact of the surprise invasion helped Germans get within 200 miles of Moscow by mid-July. Arguments between Hitler and his commanders delayed the next German advance until October, when it was stalled by a Soviet counteroffensive and the onset of harsh winter weather.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Операция Барбаросса",
+                "memoir": "22 июня 1941 года Гитлер приказал вторгнуться в Советский Союз под кодовым названием «Операция Барбаросса». Хотя советские танки и самолеты значительно превосходили немцев по численности, российская авиационная техника в значительной степени устарела, а последствия внезапного вторжения помогли немцам к середине июля приблизиться к Москве на расстояние 200 миль. Споры между Гитлером и его командирами отложили следующее немецкое наступление до октября, когда оно было остановлено советским контрнаступлением и наступлением суровой зимней погоды."
+            }
+        }
+    },
+    "Third Battle of Ypres":
+    {
+        "country": "BE",
+        "insignia": "GasMask",
+        "memoir": "On July 31, 1917, the Allies launch a renewed assault on German lines in the Flanders region of Belgium, in the much-contested region near Ypres, during World War I. The attack begins more than three months of brutal fighting, known as the Third Battle of Ypres.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Битва при Пашендейле",
+                "memoir": "31 июля 1917 года союзники начинают новое наступление на немецкие позиции во Фландрии в Бельгии, в спорном регионе недалеко от Ипра во время Первой мировой войны. Нападение начинается с более чем трехмесячных жестоких боев, известных как Третья битва при Ипре."
+            }
+        }
+    },
+    "007 ELEMENTS":
+    {
+        "country": "AT",
+        "insignia": "007",
+        "maison": "https://www.007.com",
+        "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise."
+    },
+    "Scramble for Africa":
+    {
+        "country": "EU",
+        "insignia": "Balloon",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Колониальный раздел Африки",
+                "memoir": "Разде́л А́фрики, также гонка за Африку, драка за Африку, был совершён семью западноевропейскими империалистическими державами в течение короткого периода — между 1881 и 1914 годами, в рамках нового империализма. Сопровождался острой конкуренцией за проведение в Африке исследовательских работ и военных операций, в конечном счёте направленных на захват колониальных территорий. У европейских колонизаторов было множество мотивов, в том числе стремление к ценным ресурсам, доступным на всём континенте, укрепление национального авторитета, напряжённость в отношениях между европейскими державами, религиозное миссионерское рвение и внутренняя политика африканских стран. В 1870 году под формальным европейским контролем находилось 10 % территории Африки, а в 1914 году — уже почти 90 % (независимыми остались только Эфиопия и Либерия). Позже Эфиопия будет захвачена и оккупирована Италией в 1936 году."
+            }
+        },
+        "memoir": "The Scramble for Africa was the conquest and colonisation of most of Africa by seven Western European powers driven by the Second Industrial Revolution during the era of \"New Imperialism\" (1833-1914): Belgium, France, Germany, Great Britain, Italy, Portugal and Spain. In 1870, 10% of the continent was formally under European control. By 1914, this figure had risen to almost 90%, with only Liberia and Ethiopia retaining sovereignty, along with Egba, Senusiyya, Mbunda, and the Ovambo kingdoms, which were later conquered."
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "June 26, 1993",
+        "language":
+        {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Le Grand Trianon":
+    {
+        "insignia": "Palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
+        "language":
+        {
+            "RU": {
+                "title": "Большой Трианон",
+                "memoir": "Большой Трианон был построен Жюлем Ардуэном-Мансаром в 1687 году на месте бывшего «Фарфорового Трианона». Большой Трианон, построенный по заказу Людовика XIV в 1670 году, чтобы уйти от тяжелой пышной жизни при дворе и заняться романом с мадам де Монтеспан, является, пожалуй, самым изысканным архитектурным ансамблем королевского поместья Версаля."
+            }
+        }
+    },
+    "Le Petit Trianon":
+    {
+        "insignia": "ThePalace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language":
+        {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
+        }
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language":
+        {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7, "weight": 63,
+        "sizes": "94-66-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "BE",
+        "birthday": "October 26, 1994",
+        "language":
+        {
+            "RU": { "title": "Роза Бертрам" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "The musée du Louvre":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "Louvre",
+        "maison": "https://www.louvre.fr",
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
+    }
+}
