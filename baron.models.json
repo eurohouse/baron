@@ -255,6 +255,7 @@
         "sizes": "86-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "BE",
         "birthday": "June 10, 1990",
+        "index": 5,
         "language":
         {
             "RU": { "title": "Фанни Негёша" }
@@ -351,6 +352,7 @@
         "foot_type": "Roman",
         "nsfw": "true",
         "country": "IT",
+        "index": 3,
         "language":
         {
             "RU": { "title": "Ноги итальянки" }
@@ -411,6 +413,7 @@
         "sizes": "81-61-84", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "June 26, 1993",
+        "index": 1,
         "language":
         {
             "RU": { "title": "Ариана Гранде" }
@@ -450,6 +453,7 @@
         "sizes": "89-63-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "FR",
         "birthday": "September 28, 1934",
+        "index": 1,
         "language":
         {
             "RU": { "title": "Брижит Бардо" }
@@ -461,6 +465,7 @@
         "sizes": "94-66-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "BE",
         "birthday": "October 26, 1994",
+        "index": 3,
         "language":
         {
             "RU": { "title": "Роза Бертрам" }
@@ -472,6 +477,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
+        "index": 2,
         "language":
         {
             "RU": { "title": "Одри Хепберн" }
