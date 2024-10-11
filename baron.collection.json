@@ -4,6 +4,7 @@
         "title": "William Thackeray's Vanity Fair",
         "language":
         {
+            "CH": "Magnum Opus de William Thackeray",
             "RU": "Ярмарка тщеславия Теккерея",
             "JP": "サッカレーの虚栄の市",
             "KR": "태커리의 허영의 시장",
@@ -16,6 +17,7 @@
         "title": "Murder on the Orient Express",
         "language":
         {
+            "CH": "Magnum Opus de Agatha Christie",
             "RU": "Убийство в Восточном экспрессе",
             "JP": "オリエント急行殺人事件",
             "KR": "오리엔트 특급 살인",
@@ -28,6 +30,7 @@
         "title": "007: The World is Not Enough",
         "language":
         {
+            "CH": "Magnum Opus de Ian Fleming",
             "RU": "Агент 007: И целого мира мало",
             "JP": "007: この世界は十分でない",
             "KR": "007: 세상은 충분하지 않습니다",
