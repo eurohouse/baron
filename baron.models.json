@@ -1,8 +1,7 @@
 {
     "Palace Ballroom":
     {
-        "country": "EU", "insignia": "Harp",
-        "language":
+        "country": "EU", "insignia": "Harp", "language":
         {
             "RU":
             {
@@ -15,7 +14,7 @@
     "Medici Fountain":
     {
         "setting": "La Belle Époque",
-        "country": "FR", "insignia": "Mistress",
+        "country": "FR", "insignia": "HandFan",
         "memoir": "The period between the regency of Catherine de' Medici in France (1559-1589) and that of Marie de' Medici (1610-1642) saw a great flourishing of the Italian mannerist style in France. This community of artists from Florence, including the sculptor Francesco Bordoni, helped design the statue of King Henry IV of France built on the Pont Neuf.",
         "language":
         {
