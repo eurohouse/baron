@@ -1,8 +1,7 @@
 {
     "Palace Ballroom":
     {
-        "country": "EU",
-        "insignia": "Harp",
+        "country": "EU", "insignia": "Harp",
         "language":
         {
             "RU":
@@ -16,8 +15,7 @@
     "Medici Fountain":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "Mistress",
+        "country": "FR", "insignia": "Mistress",
         "memoir": "The period between the regency of Catherine de' Medici in France (1559-1589) and that of Marie de' Medici (1610-1642) saw a great flourishing of the Italian mannerist style in France. This community of artists from Florence, including the sculptor Francesco Bordoni, helped design the statue of King Henry IV of France built on the Pont Neuf.",
         "language":
         {
@@ -31,8 +29,7 @@
     "Rule The World":
     {
         "setting": "La Belle Époque",
-        "country": "EU",
-        "insignia": "Nobility",
+        "country": "EU", "insignia": "Nobility",
         "memoir": "It's just fascinating. In 1914, really only China, Japan, and the Ottoman Empire had escaped becoming European colonies. A thousand years ago, no one would have ever expected that result, for at that point western Europe was hopelessly backward. It was politically weak, it was poor, and the major long-distance commerce was a slave trade led by Vikings. The political dominance of western Europe was an unexpected outcome and had really big consequences, so I thought: let's explain it.",
         "language":
         {
@@ -46,8 +43,7 @@
     "Haussmann Architecture":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "Palace",
+        "country": "FR", "insignia": "Palace",
         "memoir": "The Haussmann style of architecture, which is also known as Haussmannian, is the architecture that has defined modern-day Paris. In the 19th century, Baron Georges-Eugène Haussmann, a Parisian official with no architectural background, revamped the city at the request of Emperor Napoleon III. Haussmann assumed the role, Prefect of the Seine Department, and managed this vast project, which became known as the “Haussmann Renovation of Paris.” This comprehensive urban renewal program spanned from 1853 to 1870, with the construction continuing through 1927.",
         "language":
         {
@@ -61,8 +57,7 @@
     "Parisian Decor":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "TheLady",
+        "country": "FR", "insignia": "Palace",
         "memoir": "The Parisian-style decor is just spectacular. With high ceilings, tall windows, carved moldings (\"moulures\"), marble fireplaces, herringbone parquet floors, and wall panelings (\"boiseries\"), Parisian apartments have truly charming architectural details. And Parisians know exactly how to sublime these exquisite architectural elements with just a few decor pieces and by following specific interior styling rules. Sophisticated and elegant, the Parisian style decor is timeless.",
         "language":
         {
@@ -76,8 +71,7 @@
     "Vanity Fair":
     {
         "setting": "La Belle Époque",
-        "country": "GB",
-        "insignia": "HandFan",
+        "country": "GB", "insignia": "HandFan",
         "memoir": "In London in 1814, Rebecca Sharp (\"Becky\"), daughter of an art teacher and a French dancer, is a strong-willed, cunning, moneyless young woman determined to make her way in society. After leaving school, Becky stays with her friend Amelia Sedley (\"Emmy\"), who is a good-natured, simple-minded young girl, of a wealthy London family. There, Becky meets the dashing and self-obsessed Captain George Osborne (Amelia's betrothed) and Amelia's brother Joseph (\"Jos\") Sedley, a clumsy and vainglorious but rich civil servant home from the East India Company. Hoping to marry Sedley, the richest young man she has met, Becky entices him, but she fails. George Osborne's friend Captain William Dobbin loves Amelia, but only wishes her happiness, which is centred on George.",
         "language":
         {
@@ -91,8 +85,7 @@
     "Château de Versailles":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "Palace",
+        "country": "FR", "insignia": "Palace",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
         "language":
@@ -107,15 +100,13 @@
     "Eiffel Tower":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "EiffelTower",
+        "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
         "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
     },
     "Mermaid Inn":
     {
-        "country": "GB",
-        "insignia": "Mermaid",
+        "country": "GB", "insignia": "Mermaid",
         "maison": "https://www.mermaidinn.com",
         "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
         "language":
@@ -128,22 +119,19 @@
     },
     "Orient Express":
     {
-        "country": "EU",
-        "insignia": "OrientExpress",
+        "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
         "memoir": "Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits (The International Sleeping Car company) These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe."
     },
     "CHANEL N°5":
     {
-        "country": "FR",
-        "insignia": "Chanel",
+        "country": "FR", "insignia": "Chanel",
         "maison": "https://www.chanel.com",
         "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
     },
     "European Café Culture":
     {
-        "country": "EU",
-        "insignia": "Coffee",
+        "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
         "language":
@@ -157,8 +145,7 @@
     },
     "Zermatt Matterhorn":
     {
-        "country": "CH",
-        "insignia": "Louvre",
+        "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
         "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
         "language":
@@ -172,8 +159,7 @@
     },
     "Zentralen Ostalpen":
     {
-        "country": "AT",
-        "insignia": "OrientExpress",
+        "country": "AT", "insignia": "OrientExpress",
         "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
         "language":
         {
@@ -186,8 +172,7 @@
     },
     "Oslo Fjord":
     {
-        "country": "NO",
-        "insignia": "Harp",
+        "country": "NO", "insignia": "Harp",
         "maison": "https://www.visitoslo.com",
         "memoir": "The 100-km-long Oslo fjord is the scenic gem of the Oslo area. In the summer, the fjord buzzes with life and activity. You can go swimming, hike among the colourful cabins on the islands or glide over the waves on a SUP-board. In the winter months, you can still go for a swim - but you may want to step into one of the many fjordside saunas before and after.",
         "language":
@@ -201,8 +186,7 @@
     },
     "Palais Garnier":
     {
-        "country": "FR",
-        "insignia": "Palace",
+        "country": "FR", "insignia": "Palace",
         "maison": "https://www.operadeparis.fr",
         "memoir": "From 1821 to 1873, the Opera settled in the theatre Le Peletier, where the Institution enjoyed a time of prosperity during which the French “Grand Opera” genre and the Romantic ballet blossomed. But a fire destroyed the Le Peletier hall, and so a new Opera House was inaugurated in 1875, called the Palais Garnier."
     },
@@ -219,15 +203,13 @@
     },
     "Simplon-Orient-Express in 1919":
     {
-        "country": "EU",
-        "insignia": "OrientExpress",
+        "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
         "memoir": "Orient-Express unveiled the midnight blue cars of the first Simplon-Orient-Express train. For the first time ever, Paris connected Istanbul via Milan and Venice, and crossed the Simplon tunnel. This technological feat opened a new route through the Alps."
     },
     "Orient-Express in 1926 - 1929":
     {
-        "country": "EU",
-        "insignia": "OrientExpress",
+        "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
         "memoir": "Designed by decorator René Prou and master glassmaker René Lalique, the new Pullman lounge cars inspired a new art of living on board. These masterpieces of refinement and luxury in Art Deco style embodied the excellence of French travel."
     },
@@ -244,8 +226,7 @@
     },
     "Murder on the Orient Express":
     {
-        "country": "EU",
-        "insignia": "OrientExpress",
+        "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
         "memoir": "On January 1st, Murder on the Orient Express was published. This mystery novel written by the star of suspense, Agatha Christie, quickly gained a cult following, inspiring numerous film adaptations and feeding the imaginations of travelers for nearly a century."
     },
@@ -262,8 +243,7 @@
     },
     "Venice-Simplon-Orient-Express":
     {
-        "country": "EU",
-        "insignia": "OrientExpress",
+        "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
         "memoir": "On May 20th, the Orient-Express made its last direct trip between Paris and Istanbul. The development of the air travel market at the end of the 20th century was a blow to the Compagnie Internationale des Wagons-Lits, who was forced to sell some of its cars at auction."
     },
@@ -280,8 +260,7 @@
     },
     "Napoleon campaign in Egypt":
     {
-        "country": "FR",
-        "insignia": "Louvre",
+        "country": "FR", "insignia": "Louvre",
         "memoir": "On a scientific front, the expedition was a success that led to the discovery of the Rosetta Stone, creating the field of Egyptology. Despite early victories and an initially successful expedition into Syria, Napoleon and his Armée d'Orient were eventually defeated and forced to withdraw, especially after suffering the defeat of the supporting French fleet by the British Royal Navy at the Battle of the Nile.",
         "language":
         {
@@ -294,18 +273,15 @@
     },
     "European Bombshell":
     {
-        "foot_type": "Roman",
-        "country": "EU",
-        "nsfw": "true",
-        "language":
+        "country": "EU", "nsfw": "true",
+        "insignia": "Lady", "language":
         {
             "RU": { "title": "Сексуальная европейка" }
         }
     },
     "Bayeux Tapestry":
     {
-        "country": "FR",
-        "insignia": "Knight",
+        "country": "FR", "insignia": "Knight",
         "maison": "https://www.bayeuxmuseum.com",
         "memoir": "Step into the engrossing story of the conquest of England by William, Duke of Normandy in 1066, told in a 70 meters long embroidery. With a visit to the museum, you can discover the complete Bayeux Tapestry, study it close up without causing damage to it, and understand its history and how it was created thanks to an audio-guide commentary available in 16 languages. A commentary for children is also available in French and English. A permanent exhibition on the first floor will enrich your visit.",
         "language":
@@ -320,7 +296,7 @@
     "Parisian Girl":
     {
         "country": "FR", "nsfw": "true",
-        "language":
+        "insignia": "Lady", "language":
         {
             "RU": { "title": "Парижская девушка" }
         }
@@ -339,25 +315,21 @@
     "European Wedding":
     {
         "nsfw": "true", "country": "EU",
-        "insignia": "Mistress",
-        "language":
+        "insignia": "Mistress", "language":
         {
             "RU": { "title": "Европейская свадьба" }
         }
     },
     "Italian Feet":
     {
-        "foot_type": "Roman",
-        "nsfw": "true", "country": "IT",
-        "language":
+        "nsfw": "true", "country": "IT", "language":
         {
             "RU": { "title": "Ноги итальянки" }
         }
     },
     "Operation Barbarossa":
     {
-        "country": "DE",
-        "insignia": "IronCross",
+        "country": "DE", "insignia": "IronCross",
         "memoir": "On June 22, 1941, Hitler ordered the invasion of the Soviet Union, codenamed Operation Barbarossa. Though Soviet tanks and aircraft greatly outnumbered the Germans’, Russian aviation technology was largely obsolete, and the impact of the surprise invasion helped Germans get within 200 miles of Moscow by mid-July. Arguments between Hitler and his commanders delayed the next German advance until October, when it was stalled by a Soviet counteroffensive and the onset of harsh winter weather.",
         "language":
         {
@@ -370,8 +342,7 @@
     },
     "Third Battle of Ypres":
     {
-        "country": "BE",
-        "insignia": "GasMask",
+        "country": "BE", "insignia": "Eurohouse",
         "memoir": "On July 31, 1917, the Allies launch a renewed assault on German lines in the Flanders region of Belgium, in the much-contested region near Ypres, during World War I. The attack begins more than three months of brutal fighting, known as the Third Battle of Ypres.",
         "language":
         {
@@ -384,16 +355,13 @@
     },
     "007 ELEMENTS":
     {
-        "country": "AT",
-        "insignia": "007",
+        "country": "AT", "insignia": "007",
         "maison": "https://www.007.com",
         "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise."
     },
     "Scramble for Africa":
     {
-        "country": "EU",
-        "insignia": "Balloon",
-        "language":
+        "country": "EU", "insignia": "Balloon", "language":
         {
             "RU":
             {
@@ -416,8 +384,7 @@
     },
     "Le Grand Trianon":
     {
-        "insignia": "Palace",
-        "country": "FR",
+        "insignia": "Palace", "country": "FR",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
         "language":
@@ -430,8 +397,7 @@
     },
     "Le Petit Trianon":
     {
-        "insignia": "ThePalace",
-        "country": "FR",
+        "insignia": "Palace", "country": "FR",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
         "language":
@@ -478,8 +444,7 @@
     "The musée du Louvre":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "Louvre",
+        "country": "FR", "insignia": "Louvre",
         "maison": "https://www.louvre.fr",
         "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
     }
