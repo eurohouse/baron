@@ -101,7 +101,15 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
-        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
+        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Эйфелева башня",
+                "memoir": "Ставка заключалась в том, чтобы «изучить возможность возведения железной башни на Марсовом поле с квадратным основанием, 125 метров в поперечнике и 300 метров в высоту». Из 107 отобранных проектов был принят проект Гюстава Эйфеля, предпринимателя, Мориса Кёхлена и Эмиля Нугье, инженеров, и Стефана Совестра, архитектора. Эмиль Нугье и Морис Кёхлен, два главных инженера в компании Эйфеля, в июне 1884 года выдвинули идею очень высокой башни. Она должна была быть спроектирована как большой пилон с четырьмя колоннами решетчатых балок, разделенных у основания и соединенных наверху, и соединенных друг с другом большим количеством металлических балок на регулярных интервалах."
+            }
+        }
     },
     "Mermaid Inn":
     {
@@ -120,13 +128,29 @@
     {
         "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
-        "memoir": "Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits (The International Sleeping Car company) These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe."
+        "memoir": "Behind the acronym was a company driven by audacity, the Compagnie Internationale des Wagons-Lits (The International Sleeping Car company) These trains became known for their luxurious decorations, unparalleled comfort, unprecedented services on board, plus travel agencies and workshops throughout Europe.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Восточный экспресс",
+                "memoir": "За этой аббревиатурой скрывалась смелая компания Compagnie Internationale des Wagons-Lits (Международная компания спальных вагонов). Эти поезда стали известны своим роскошным убранством, непревзойденным комфортом, беспрецедентным обслуживанием на борту, а также туристическими агентствами и мастерскими по всей Европе."
+            }
+        }
     },
     "CHANEL N°5":
     {
         "country": "FR", "insignia": "Chanel",
         "maison": "https://www.chanel.com",
-        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe."
+        "memoir": "'What do I wear in bed? Why, Chanel No. 5, of course' - Marilyn Monroe.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "CHANEL № 5",
+                "memoir": "Единственное, что я надеваю на ночь, это капелька Chanel № 5. - Мэрилин Монро."
+            }
+        }
     },
     "European Café Culture":
     {
@@ -187,7 +211,15 @@
     {
         "country": "FR", "insignia": "Palace",
         "maison": "https://www.operadeparis.fr",
-        "memoir": "From 1821 to 1873, the Opera settled in the theatre Le Peletier, where the Institution enjoyed a time of prosperity during which the French “Grand Opera” genre and the Romantic ballet blossomed. But a fire destroyed the Le Peletier hall, and so a new Opera House was inaugurated in 1875, called the Palais Garnier."
+        "memoir": "From 1821 to 1873, the Opera settled in the theatre Le Peletier, where the Institution enjoyed a time of prosperity during which the French “Grand Opera” genre and the Romantic ballet blossomed. But a fire destroyed the Le Peletier hall, and so a new Opera House was inaugurated in 1875, called the Palais Garnier.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Опера Гарнье",
+                "memoir": "С 1821 по 1873 год Опера обосновалась в театре Le Peletier, где учреждение переживало период процветания, в течение которого расцвели французский жанр «Гранд-опера» и романтический балет. Но пожар уничтожил зал Le Peletier, и поэтому в 1875 году был открыт новый Оперный театр, названный Дворец Гарнье."
+            }
+        }
     },
     "Angelina Jolie":
     {
@@ -204,13 +236,29 @@
     {
         "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
-        "memoir": "Orient-Express unveiled the midnight blue cars of the first Simplon-Orient-Express train. For the first time ever, Paris connected Istanbul via Milan and Venice, and crossed the Simplon tunnel. This technological feat opened a new route through the Alps."
+        "memoir": "Orient-Express unveiled the midnight blue cars of the first Simplon-Orient-Express train. For the first time ever, Paris connected Istanbul via Milan and Venice, and crossed the Simplon tunnel. This technological feat opened a new route through the Alps.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Восточный экспресс в 1919 г.",
+                "memoir": "Orient-Express представил темно-синие вагоны первого поезда Simplon-Orient-Express. Впервые в истории поезд Paris соединил Стамбул через Милан и Венецию и пересек туннель Simplon. Этот технологический подвиг открыл новый маршрут через Альпы."
+            }
+        }
     },
     "Orient-Express in 1926 - 1929":
     {
         "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
-        "memoir": "Designed by decorator René Prou and master glassmaker René Lalique, the new Pullman lounge cars inspired a new art of living on board. These masterpieces of refinement and luxury in Art Deco style embodied the excellence of French travel."
+        "memoir": "Designed by decorator René Prou and master glassmaker René Lalique, the new Pullman lounge cars inspired a new art of living on board. These masterpieces of refinement and luxury in Art Deco style embodied the excellence of French travel.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Восточный экспресс в 1926 - 1929 гг.",
+                "memoir": "Разработанные декоратором Рене Пру и мастером-стеклодувом Рене Лаликом, новые вагоны-лаунжи Pullman вдохновили новое искусство жизни на борту. Эти шедевры изысканности и роскоши в стиле ар-деко олицетворяли совершенство французских путешествий."
+            }
+        }
     },
     "Victoria Justice":
     {
@@ -227,7 +275,15 @@
     {
         "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
-        "memoir": "On January 1st, Murder on the Orient Express was published. This mystery novel written by the star of suspense, Agatha Christie, quickly gained a cult following, inspiring numerous film adaptations and feeding the imaginations of travelers for nearly a century."
+        "memoir": "On January 1st, Murder on the Orient Express was published. This mystery novel written by the star of suspense, Agatha Christie, quickly gained a cult following, inspiring numerous film adaptations and feeding the imaginations of travelers for nearly a century.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Убийство в Восточном экспрессе",
+                "memoir": "1 января было опубликовано «Убийство в Восточном экспрессе». Этот детективный роман, написанный звездой саспенса Агатой Кристи, быстро стал культовым, вдохновил на многочисленные экранизации и питал воображение путешественников на протяжении почти столетия."
+            }
+        }
     },
     "Fanny Neguesha":
     {
@@ -244,7 +300,15 @@
     {
         "country": "EU", "insignia": "OrientExpress",
         "maison": "https://www.orient-express.com",
-        "memoir": "On May 20th, the Orient-Express made its last direct trip between Paris and Istanbul. The development of the air travel market at the end of the 20th century was a blow to the Compagnie Internationale des Wagons-Lits, who was forced to sell some of its cars at auction."
+        "memoir": "On May 20th, the Orient-Express made its last direct trip between Paris and Istanbul. The development of the air travel market at the end of the 20th century was a blow to the Compagnie Internationale des Wagons-Lits, who was forced to sell some of its cars at auction.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Восточный экспресс в наши дни",
+                "memoir": "20 мая Orient-Express совершил свой последний прямой рейс между Парижем и Стамбулом. Развитие рынка авиаперевозок в конце XX века стало ударом для Compagnie Internationale des Wagons-Lits, которая была вынуждена продать часть своих вагонов на аукционе."
+            }
+        }
     },
     "Beyoncé":
     {
@@ -270,34 +334,16 @@
             }
         }
     },
-    "European Bombshell":
-    {
-        "country": "EU", "nsfw": "true",
-        "insignia": "Lady", "language":
-        {
-            "RU": { "title": "Сексуальная европейка" }
-        }
-    },
     "Bayeux Tapestry":
     {
         "country": "FR", "insignia": "Knight",
         "maison": "https://www.bayeuxmuseum.com",
         "memoir": "Step into the engrossing story of the conquest of England by William, Duke of Normandy in 1066, told in a 70 meters long embroidery. With a visit to the museum, you can discover the complete Bayeux Tapestry, study it close up without causing damage to it, and understand its history and how it was created thanks to an audio-guide commentary available in 16 languages. A commentary for children is also available in French and English. A permanent exhibition on the first floor will enrich your visit.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Гобелен из Байё",
                 "memoir": "Окунитесь в захватывающую историю завоевания Англии Вильгельмом, герцогом Нормандии в 1066 году, рассказанную на вышивке длиной 70 метров. Посетив музей, вы сможете открыть для себя весь гобелен из Байе, изучить его вблизи, не причиняя ему вреда, а также понять его историю и то, как он был создан, благодаря комментариям аудиогида, доступным на 16 языках. Комментарии для детей также доступны на французском и английском языках. Постоянная выставка на первом этаже обогатит ваш визит."
             }
-        }
-    },
-    "Parisian Girl":
-    {
-        "country": "FR", "nsfw": "true",
-        "insignia": "Lady", "language":
-        {
-            "RU": { "title": "Парижская девушка" }
         }
     },
     "Katy Perry":
@@ -306,23 +352,27 @@
         "sizes": "92-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "October 25, 1984",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Кэти Перри" }
         }
     },
-    "European Wedding":
+    "Couture Boudoir":
     {
-        "nsfw": "true", "country": "EU",
-        "insignia": "Mistress", "language":
-        {
-            "RU": { "title": "Европейская свадьба" }
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
         }
     },
     "Italian Feet":
     {
-        "nsfw": "true", "country": "IT", "language":
-        {
+        "nsfw": "true", "country": "IT",
+        "language": {
             "RU": { "title": "Ноги итальянки" }
         }
     },
@@ -330,10 +380,8 @@
     {
         "country": "DE", "insignia": "IronCross",
         "memoir": "On June 22, 1941, Hitler ordered the invasion of the Soviet Union, codenamed Operation Barbarossa. Though Soviet tanks and aircraft greatly outnumbered the Germans’, Russian aviation technology was largely obsolete, and the impact of the surprise invasion helped Germans get within 200 miles of Moscow by mid-July. Arguments between Hitler and his commanders delayed the next German advance until October, when it was stalled by a Soviet counteroffensive and the onset of harsh winter weather.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Операция Барбаросса",
                 "memoir": "22 июня 1941 года Гитлер приказал вторгнуться в Советский Союз под кодовым названием «Операция Барбаросса». Хотя советские танки и самолеты значительно превосходили немцев по численности, российская авиационная техника в значительной степени устарела, а последствия внезапного вторжения помогли немцам к середине июля приблизиться к Москве на расстояние 200 миль. Споры между Гитлером и его командирами отложили следующее немецкое наступление до октября, когда оно было остановлено советским контрнаступлением и наступлением суровой зимней погоды."
             }
@@ -343,10 +391,8 @@
     {
         "country": "BE", "insignia": "Eurohouse",
         "memoir": "On July 31, 1917, the Allies launch a renewed assault on German lines in the Flanders region of Belgium, in the much-contested region near Ypres, during World War I. The attack begins more than three months of brutal fighting, known as the Third Battle of Ypres.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Битва при Пашендейле",
                 "memoir": "31 июля 1917 года союзники начинают новое наступление на немецкие позиции во Фландрии в Бельгии, в спорном регионе недалеко от Ипра во время Первой мировой войны. Нападение начинается с более чем трехмесячных жестоких боев, известных как Третья битва при Ипре."
             }
@@ -360,15 +406,14 @@
     },
     "Scramble for Africa":
     {
-        "country": "EU", "insignia": "Balloon", "language":
-        {
-            "RU":
-            {
+        "country": "EU", "insignia": "Balloon",
+        "memoir": "The Scramble for Africa was the conquest and colonisation of most of Africa by seven Western European powers driven by the Second Industrial Revolution during the era of \"New Imperialism\" (1833-1914): Belgium, France, Germany, Great Britain, Italy, Portugal and Spain. In 1870, 10% of the continent was formally under European control. By 1914, this figure had risen to almost 90%, with only Liberia and Ethiopia retaining sovereignty, along with Egba, Senusiyya, Mbunda, and the Ovambo kingdoms, which were later conquered.",
+        "language": {
+            "RU": {
                 "title": "Колониальный раздел Африки",
                 "memoir": "Разде́л А́фрики, также гонка за Африку, драка за Африку, был совершён семью западноевропейскими империалистическими державами в течение короткого периода — между 1881 и 1914 годами, в рамках нового империализма. Сопровождался острой конкуренцией за проведение в Африке исследовательских работ и военных операций, в конечном счёте направленных на захват колониальных территорий. У европейских колонизаторов было множество мотивов, в том числе стремление к ценным ресурсам, доступным на всём континенте, укрепление национального авторитета, напряжённость в отношениях между европейскими державами, религиозное миссионерское рвение и внутренняя политика африканских стран. В 1870 году под формальным европейским контролем находилось 10 % территории Африки, а в 1914 году — уже почти 90 % (независимыми остались только Эфиопия и Либерия). Позже Эфиопия будет захвачена и оккупирована Италией в 1936 году."
             }
-        },
-        "memoir": "The Scramble for Africa was the conquest and colonisation of most of Africa by seven Western European powers driven by the Second Industrial Revolution during the era of \"New Imperialism\" (1833-1914): Belgium, France, Germany, Great Britain, Italy, Portugal and Spain. In 1870, 10% of the continent was formally under European control. By 1914, this figure had risen to almost 90%, with only Liberia and Ethiopia retaining sovereignty, along with Egba, Senusiyya, Mbunda, and the Ovambo kingdoms, which were later conquered."
+        }
     },
     "Ariana Grande":
     {
@@ -376,8 +421,7 @@
         "sizes": "81-61-84", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "June 26, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Ариана Гранде" }
         }
     },
@@ -386,8 +430,7 @@
         "insignia": "Palace", "country": "FR",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "The Grand Trianon was erected by Jules Hardouin-Mansart in 1687 on the site of the former ‘Porcelain Trianon’. Commissioned by Louis XIV in 1670 to get away from the arduous pomp of life in the court and to pursue his affair with Madame de Montespan, the Grand Trianon is perhaps the most refined architectural ensemble found on the royal estate of Versailles.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Большой Трианон",
                 "memoir": "Большой Трианон был построен Жюлем Ардуэном-Мансаром в 1687 году на месте бывшего «Фарфорового Трианона». Большой Трианон, построенный по заказу Людовика XIV в 1670 году, чтобы уйти от тяжелой пышной жизни при дворе и заняться романом с мадам де Монтеспан, является, пожалуй, самым изысканным архитектурным ансамблем королевского поместья Версаля."
@@ -399,8 +442,7 @@
         "insignia": "Palace", "country": "FR",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Малый Трианон",
                 "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
@@ -413,8 +455,7 @@
         "sizes": "89-63-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "FR",
         "birthday": "September 28, 1934",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Брижит Бардо" }
         }
     },
@@ -424,8 +465,7 @@
         "sizes": "94-66-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "BE",
         "birthday": "October 26, 1994",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Роза Бертрам" }
         }
     },
@@ -435,8 +475,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Одри Хепберн" }
         }
     },
