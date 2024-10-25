@@ -479,6 +479,16 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
+    "Adriana Lima":
+    {
+        "height": 1.78, "weight": 60,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 10, "country": "BR",
+        "birthday": "June 12, 1981",
+        "language": {
+            "RU": { "title": "Адриана Лима" }
+        }
+    },
     "The musée du Louvre":
     {
         "setting": "La Belle Époque",
