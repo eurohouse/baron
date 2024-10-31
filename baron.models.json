@@ -1,4 +1,128 @@
 {
+    "Angelina Jolie":
+    {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language":
+        {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Fanny Neguesha":
+    {
+        "height": 1.73, "weight": 56,
+        "sizes": "86-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "BE",
+        "birthday": "June 10, 1990",
+        "language":
+        {
+            "RU": { "title": "Фанни Негёша" }
+        }
+    },
+    "Beyoncé":
+    {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language":
+        {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Katy Perry":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
+        "language": {
+            "RU": { "title": "Кэти Перри" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7, "weight": 63,
+        "sizes": "94-66-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "BE",
+        "birthday": "October 26, 1994",
+        "language": {
+            "RU": { "title": "Роза Бертрам" }
+        }
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language": {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Adriana Lima":
+    {
+        "height": 1.78, "weight": 60,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 10, "country": "BR",
+        "birthday": "June 12, 1981",
+        "language": {
+            "RU": { "title": "Адриана Лима" }
+        }
+    },
+    "Couture Boudoir":
+    {
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
+    "Italian Feet":
+    {
+        "nsfw": "true", "country": "IT",
+        "language": {
+            "RU": { "title": "Ноги итальянки" }
+        }
+    },
     "Palace Ballroom":
     {
         "country": "EU", "insignia": "Harp", "language":
@@ -221,17 +345,6 @@
             }
         }
     },
-    "Angelina Jolie":
-    {
-        "height": 1.69, "weight": 54,
-        "sizes": "92-59-89", "nsfw": "true",
-        "shoe_size": 9, "country": "US",
-        "birthday": "June 4, 1975",
-        "language":
-        {
-            "RU": { "title": "Анджелина Джоли" }
-        }
-    },
     "Simplon-Orient-Express in 1919":
     {
         "country": "EU", "insignia": "OrientExpress",
@@ -260,17 +373,6 @@
             }
         }
     },
-    "Victoria Justice":
-    {
-        "height": 1.66, "weight": 53,
-        "sizes": "87-61-89", "nsfw": "true",
-        "shoe_size": 6.5, "country": "US",
-        "birthday": "February 19, 1993",
-        "language":
-        {
-            "RU": { "title": "Виктория Джастис" }
-        }
-    },
     "Murder on the Orient Express":
     {
         "country": "EU", "insignia": "OrientExpress",
@@ -285,17 +387,6 @@
             }
         }
     },
-    "Fanny Neguesha":
-    {
-        "height": 1.73, "weight": 56,
-        "sizes": "86-59-89", "nsfw": "true",
-        "shoe_size": 8, "country": "BE",
-        "birthday": "June 10, 1990",
-        "language":
-        {
-            "RU": { "title": "Фанни Негёша" }
-        }
-    },
     "Venice-Simplon-Orient-Express":
     {
         "country": "EU", "insignia": "OrientExpress",
@@ -308,17 +399,6 @@
                 "title": "Восточный экспресс в наши дни",
                 "memoir": "20 мая Orient-Express совершил свой последний прямой рейс между Парижем и Стамбулом. Развитие рынка авиаперевозок в конце XX века стало ударом для Compagnie Internationale des Wagons-Lits, которая была вынуждена продать часть своих вагонов на аукционе."
             }
-        }
-    },
-    "Beyoncé":
-    {
-        "height": 1.7, "weight": 62,
-        "sizes": "89-66-99", "nsfw": "true",
-        "shoe_size": 8.5, "country": "US",
-        "birthday": "September 4, 1981",
-        "language":
-        {
-            "RU": { "title": "Бейонсе" }
         }
     },
     "Napoleon campaign in Egypt":
@@ -346,34 +426,72 @@
             }
         }
     },
-    "Katy Perry":
+    "Assemblée de la noblesse":
     {
-        "height": 1.73, "weight": 61,
-        "sizes": "92-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "October 25, 1984",
-        "language": {
-            "RU": { "title": "Кэти Перри" }
-        }
-    },
-    "Couture Boudoir":
-    {
-        "insignia": "Lady", "nsfw": "true",
-        "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "country": "FR", "insignia": "Nobility",
+        "maison": "http://www.noblesse-russie.org/UNR_devenir.php?l=Fr",
+        "memoir": "L'admission à l'UNR est soumise à une condition absolue : appartenir à la Noblesse héréditaire de l'ancien Empire de Russie, par filiation mâle, légitime et directe. Il faut donc impérativement apporter la preuve irréfutable, sur documents, de cette appartenance par rapport à l'ascendant qui, avant février 1917, appartenait à cette noblesse . Une demande doit être adressée au Président de l’UNR qui enverra le dossier à remplir. Après avis de la Commission des Preuves, le Conseil délibère et décide ou non de l’admission. Les femmes peuvent être acceptées à titre personnel (sans capacité à transmettre la noblesse à leurs descendants) si leur noblesse est justifiée par la naissance ou, dans le cas d’une veuve, par la noblesse du défunt mari.",
         "language": {
             "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+                "title": "Дворянское собрание",
+                "memoir": "Прием в Союз Русских Дворян обусловлен безоговорочным условием принадлежности к потомственному дворянству Российской Империи по мужской линии, законной и прямой. Таким образом, следует представить неопровержимое доказательство, по документам, этой принадлежности по отношению к предку, который до Февраля 1917-го года принадлежал к дворянству. Запрос должен быть адресован на имя Председателя UNR, который вышлет Вам формуляр для заполнения. Затем, после заключения, выполненного Родословной Комиссией, Совет рассмотрит, обсудит и вынесет решение о возможности или невозможности принятия нового члена в Союз. Дамы могут быть приняты в Союз, как носители личного дворянства (без возможности передачи дворянства своему потомству), если их дворянство по рождению подтверждено документально; или как дворянство скончавшегося супруга."
             }
         }
     },
-    "Italian Feet":
+    "War and Peace":
     {
-        "nsfw": "true", "country": "IT",
+        "setting": "La Belle Époque",
+        "country": "RU", "insignia": "Knight",
+        "memoir": "The novel spans the period from 1805 to 1820. The era of Catherine the Great was still fresh in the minds of older people. Catherine had made French the language of her royal court. For the next 100 years, it became a social requirement for the Russian nobility to speak French and understand French culture. The historical context of the novel begins with the execution of Louis Antoine, Duke of Enghien in 1805, while Russia is ruled by Alexander I during the Napoleonic Wars. Key historical events woven into the novel include the Ulm Campaign, the Battle of Austerlitz, the Treaties of Tilsit, and the Congress of Erfurt. Tolstoy also references the Great Comet of 1811 just before the French invasion of Russia.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Война и мир",
+                "memoir": "Роман охватывает период с 1805 по 1820 год. Эпоха Екатерины Великой была еще свежа в умах людей старшего поколения. Екатерина сделала французский язык языком своего королевского двора. В течение следующих 100 лет для русского дворянства стало социальным требованием говорить по-французски и понимать французскую культуру. Исторический контекст романа начинается с казни Луи Антуана, герцога Энгиенского, в 1805 году, когда Россией правил Александр I во время Наполеоновских войн. Ключевые исторические события, вплетенные в роман, включают Ульмскую кампанию, Аустерлицкое сражение, Тильзитский мир и Эрфуртский конгресс. Толстой также ссылается на Большую комету 1811 года как раз перед французским вторжением в Россию."
+            }
+        }
+    },
+    "Knights Templar":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU", "insignia": "Knight",
+        "maison": "https://www.theknightstemplar1119.org",
+        "memoir": "Welcome to the Grand Priory of England & Wales Website. We are dedicated to exploring the rich history, values, and traditions of the Knights Templar, an ancient order known for its chivalry, courage, and unwavering commitment to service. At the heart of our mission lies a deep commitment to charity, embodying the Templar spirit of helping those in need. We believe in making a positive impact on our communities through various charitable initiatives, supporting both local and global causes. Our website provides information on our commitment to charity and various journeys taken by members to explore and gain deeper insights into the Templar legacy. Join us as we delve into the stories and ideals that inspire generations, fostering a spirit of brotherhood, compassion, and philanthropy.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Орден Тамплиеров",
+                "memoir": "Добро пожаловать на сайт Великого Приората Англии и Уэльса. Мы стремимся исследовать богатую историю, ценности и традиции тамплиеров, древнего ордена, известного своим благородством, мужеством и непоколебимой преданностью служению. В основе нашей миссии лежит глубокая приверженность благотворительности, воплощающая дух тамплиеров, помогающих нуждающимся. Мы верим в оказание положительного влияния на наши сообщества посредством различных благотворительных инициатив, поддерживая как местные, так и глобальные дела. На нашем сайте представлена ​​информация о нашей приверженности благотворительности и различных путешествиях, предпринятых членами для изучения и получения более глубокого понимания наследия тамплиеров. Присоединяйтесь к нам, и мы погрузимся в истории и идеалы, которые вдохновляют поколения, воспитывая дух братства, сострадания и филантропии."
+            }
+        }
+    },
+    "Times Square":
+    {
+        "setting": "La Belle Époque",
+        "country": "US", "insignia": "Liberty",
+        "maison": "https://www.timessquarenyc.org",
+        "memoir": "In the late 1880s, Long Acre Square consisted of a large open space surrounded by drab apartments. Soon, however, the neighborhood began to change. Electricity, in the form of theater advertisements and street lights, transformed public space into a safer, more inviting environment. Likewise, the construction of New York’s first rapid transit system, the Interborough Rapid Transit Company (IRT), gave New Yorkers unprecedented mobility in the city. The announcement of the IRT spurred real estate speculation by shrewd businessmen who believed that increased foot traffic in the area would generate profits. Adolph S. Ochs, owner and publisher of The New York Times from 1896 to 1935, saw an opportunity and selected a highly visible location to build the Times Tower, which was the second tallest building in the city at the time. In January 1905, the Times finally moved into their new headquarters, built between Broadway and Seventh Avenue and 42nd and 43rd Streets. The previous spring, Mayor George B. McClellan signed a resolution that renamed the intersection of Broadway and Seventh Avenue from Long Acre Square to Times Square.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Таймс-сквер",
+                "memoir": "В конце 1880-х годов площадь Лонг-Эйкр представляла собой большое открытое пространство, окруженное унылыми квартирами. Однако вскоре район начал меняться. Электричество в виде театральной рекламы и уличного освещения превратило общественное пространство в более безопасную и привлекательную среду. Аналогичным образом строительство первой в Нью-Йорке системы скоростного транспорта, Interborough Rapid Transit Company (IRT), дало жителям Нью-Йорка беспрецедентную мобильность в городе. Объявление о создании IRT подстегнуло спекуляцию недвижимостью со стороны проницательных бизнесменов, которые считали, что увеличение пешеходного движения в этом районе принесет прибыль. Адольф С. Окс, владелец и издатель The New York Times с 1896 по 1935 год, увидел возможность и выбрал очень видное место для строительства башни Times, которая в то время была вторым по высоте зданием в городе. В январе 1905 года Times наконец переехала в свою новую штаб-квартиру, построенную между Бродвеем и Седьмой авеню и 42-й и 43-й улицами. Весной прошлого года мэр Джордж Б. Макклеллан подписал резолюцию, согласно которой пересечение Бродвея и Седьмой авеню было переименовано из площади Лонг-Эйкр в площадь Таймс-сквер."
+            }
+        }
+    },
+    "Cliffe Castle Museum":
+    {
+        "country": "GB", "insignia": "Palace",
+        "maison": "https://bradfordmuseums.org/venue/cliffe-castle-museum",
+        "memoir": "Cliffe Castle was originally built in the 1880s as the home of Victorian millionaire and textile manufacturer, Henry Isaac Butterfield and was a showpiece of international art and French decoration. It was the scene of many glittering parties and society events. In the 1950s the Castle was bought by Sir Bracewell Smith, who commissioned architect Sir Albert Richardson to turn Cliffe Castle’s gardens into a grand public park and remodelled the Castle to be a free museum for the people of the district. That continues to this day, winning (and retaining) a coveted Heritage Green Flag award – the first in the district!",
         "language": {
-            "RU": { "title": "Ноги итальянки" }
+            "RU": {
+                "title": "Музей Замка Клифф",
+                "memoir": "Замок Клифф был изначально построен в 1880-х годах как дом викторианского миллионера и текстильного фабриканта Генри Айзека Баттерфилда и был образцом международного искусства и французского декора. Он был местом проведения многих блестящих вечеринок и светских мероприятий. В 1950-х годах замок был куплен сэром Брейсвеллом Смитом, который поручил архитектору сэру Альберту Ричардсону превратить сады замка Клифф в большой общественный парк и перестроил замок, сделав его бесплатным музеем для жителей района. Это продолжается и по сей день, завоевав (и сохранив) желанную награду Heritage Green Flag — первую в районе!"
+            }
         }
     },
     "Operation Barbarossa":
@@ -415,16 +533,6 @@
             }
         }
     },
-    "Ariana Grande":
-    {
-        "height": 1.55, "weight": 44,
-        "sizes": "81-61-84", "nsfw": "true",
-        "shoe_size": 7.5, "country": "US",
-        "birthday": "June 26, 1993",
-        "language": {
-            "RU": { "title": "Ариана Гранде" }
-        }
-    },
     "Le Grand Trianon":
     {
         "insignia": "Palace", "country": "FR",
@@ -447,46 +555,6 @@
                 "title": "Малый Трианон",
                 "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
             }
-        }
-    },
-    "Brigitte Bardot":
-    {
-        "height": 1.66, "weight": 57,
-        "sizes": "89-63-89", "nsfw": "true",
-        "shoe_size": 7.5, "country": "FR",
-        "birthday": "September 28, 1934",
-        "language": {
-            "RU": { "title": "Брижит Бардо" }
-        }
-    },
-    "Rose Bertram":
-    {
-        "height": 1.7, "weight": 63,
-        "sizes": "94-66-91", "nsfw": "true",
-        "shoe_size": 7.5, "country": "BE",
-        "birthday": "October 26, 1994",
-        "language": {
-            "RU": { "title": "Роза Бертрам" }
-        }
-    },
-    "Audrey Hepburn":
-    {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
-        }
-    },
-    "Adriana Lima":
-    {
-        "height": 1.78, "weight": 60,
-        "sizes": "86-63-89", "nsfw": "true",
-        "shoe_size": 10, "country": "BR",
-        "birthday": "June 12, 1981",
-        "language": {
-            "RU": { "title": "Адриана Лима" }
         }
     },
     "The musée du Louvre":
