@@ -1,4 +1,15 @@
 {
+    "Shakira":
+    {
+        "height": 1.57, "weight": 53,
+        "sizes": "87-61-94", "nsfw": "true",
+        "shoe_size": 7, "country": "CO",
+        "birthday": "February 2, 1977",
+        "language":
+        {
+            "RU": { "title": "Шакира" }
+        }
+    },
     "Angelina Jolie":
     {
         "height": 1.69, "weight": 54,
