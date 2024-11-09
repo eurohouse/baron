@@ -74,6 +74,19 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
+    "Ivi Adamou":
+    {
+        "height": 1.75, "weight": 68,
+        "sizes": "84-64-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GR",
+        "birthday": "November 24, 1993",
+        "language":
+        {
+            "RU": { "title": "Иви Адаму" },
+            "GR": { "title": "Ήβη Αδάμου" },
+            "CY": { "title": "Ήβη Αδάμου" }
+        }
+    },
     "Ariana Grande":
     {
         "height": 1.55, "weight": 44,
