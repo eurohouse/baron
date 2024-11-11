@@ -1,4 +1,15 @@
 {
+    "Dominique Swain":
+    {
+        "height": 1.75, "weight": 64,
+        "sizes": "76-58-84", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "August 12, 1980",
+        "language":
+        {
+            "RU": { "title": "Доминик Суэйн" }
+        }
+    },
     "Shakira":
     {
         "height": 1.57, "weight": 53,
