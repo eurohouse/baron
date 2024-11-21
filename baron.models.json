@@ -10,6 +10,17 @@
             "RU": { "title": "Доминик Суэйн" }
         }
     },
+    "Jennifer Garner":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "87-69-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "April 17, 1972",
+        "language":
+        {
+            "RU": { "title": "Дженнифер Гарнер" }
+        }
+    },
     "Shakira":
     {
         "height": 1.57, "weight": 53,
