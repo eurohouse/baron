@@ -1,24 +1,13 @@
 {
-    "Dominique Swain":
+    "Marion Cotillard":
     {
-        "height": 1.75, "weight": 64,
-        "sizes": "76-58-84", "nsfw": "true",
-        "shoe_size": 8.5, "country": "US",
-        "birthday": "August 12, 1980",
+        "height": 1.69, "weight": 57,
+        "sizes": "92-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "September 30, 1975",
         "language":
         {
-            "RU": { "title": "Доминик Суэйн" }
-        }
-    },
-    "Jennifer Garner":
-    {
-        "height": 1.73, "weight": 61,
-        "sizes": "87-69-89", "nsfw": "true",
-        "shoe_size": 9, "country": "US",
-        "birthday": "April 17, 1972",
-        "language":
-        {
-            "RU": { "title": "Дженнифер Гарнер" }
+            "RU": { "title": "Марион Котийяр" }
         }
     },
     "Shakira":
