@@ -1,9 +1,7 @@
 {
-    "000":
-    {
+    "000": {
         "title": "William Thackeray's Vanity Fair",
-        "language":
-        {
+        "language": {
             "CH": "Magnum Opus de William Thackeray",
             "RU": "Ярмарка тщеславия Теккерея",
             "JP": "サッカレーの虚栄の市",
@@ -12,11 +10,9 @@
             "AE": "معرض الغرور لثاكري"
         }
     },
-    "001":
-    {
+    "001": {
         "title": "Murder on the Orient Express",
-        "language":
-        {
+        "language": {
             "CH": "Magnum Opus de Agatha Christie",
             "RU": "Убийство в Восточном экспрессе",
             "JP": "オリエント急行殺人事件",
@@ -25,11 +21,9 @@
             "AE": "قضية قتل أورينت إكسبريس"
         }
     },
-    "002":
-    {
+    "002": {
         "title": "007: The World is Not Enough",
-        "language":
-        {
+        "language": {
             "CH": "Magnum Opus de Ian Fleming",
             "RU": "Агент 007: И целого мира мало",
             "JP": "007: この世界は十分でない",
