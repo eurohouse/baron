@@ -36,18 +36,18 @@
         }
     },
     "002": {
-        "title": "007: [project]",
+        "title": "[codename]: [project] ([year])",
         "language": {
             "CH": "Magnum Opus de Ian Fleming",
-            "JP": "007: この世界は十分でない",
-            "KR": "007: 세상은 충분하지 않습니다",
-            "CN": "007: 世界还不够",
-            "AE": "007: العالم لا يكفي",
-            "SA": "007: العالم لا يكفي",
-            "IQ": "007: العالم لا يكفي",
-            "IR": "007: العالم لا يكفي",
-            "KW": "007: العالم لا يكفي",
-            "QA": "007: العالم لا يكفي"
+            "JP": "[codename]: この世界は十分でない（[year]）",
+            "KR": "[codename]: 세상은 충분하지 않습니다 ([year])",
+            "CN": "[codename]: 世界还不够（[year]）",
+            "AE": "[codename]: العالم لا يكفي([year])",
+            "SA": "[codename]: العالم لا يكفي([year])",
+            "IQ": "[codename]: العالم لا يكفي([year])",
+            "IR": "[codename]: العالم لا يكفي([year])",
+            "KW": "[codename]: العالم لا يكفي([year])",
+            "QA": "[codename]: العالم لا يكفي([year])"
         }
     }
 }
