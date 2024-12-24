@@ -43,15 +43,15 @@
         "title": "[codename]: [project] ([year])",
         "language": {
             "CH": "Magnum Opus de Ian Fleming",
-            "JP": "[codename]: この世界は十分でない（[year]）",
-            "KR": "[codename]: 세상은 충분하지 않습니다 ([year])",
-            "CN": "[codename]: 世界还不够（[year]）",
-            "AE": "[codename]: العالم لا يكفي([year])",
-            "SA": "[codename]: العالم لا يكفي([year])",
-            "IQ": "[codename]: العالم لا يكفي([year])",
-            "IR": "[codename]: العالم لا يكفي([year])",
-            "KW": "[codename]: العالم لا يكفي([year])",
-            "QA": "[codename]: العالم لا يكفي([year])"
+            "JP": "[codename]：[project]（[year]）",
+            "KR": "[codename]: [project] ([year])",
+            "CN": "[codename]：[project]（[year]）",
+            "AE": "([year]) [project] :[codename]",
+            "SA": "([year]) [project] :[codename]",
+            "IQ": "([year]) [project] :[codename]",
+            "IR": "([year]) [project] :[codename]",
+            "KW": "([year]) [project] :[codename]",
+            "QA": "([year]) [project] :[codename]"
         }
     }
 }
