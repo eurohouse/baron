@@ -136,6 +136,15 @@
             "RU": { "title": "Адриана Лима" }
         }
     },
+    "Sydney Sweeney": {
+        "height": 1.61, "weight": 56,
+        "sizes": "91-63-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "September 12, 1997",
+        "language": {
+            "RU": { "title": "Сидни Суини" }
+        }
+    },
     "Marion Cotillard": {
         "height": 1.69, "weight": 57,
         "sizes": "92-61-86", "nsfw": "true",
