@@ -53,6 +53,15 @@
             }
         }
     },
+    "Amanda Righetti": {
+        "height": 1.75, "weight": 58,
+        "sizes": "86-71-91", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "April 4, 1983",
+        "language": {
+            "RU": { "title": "Аманда Ригетти" }
+        }
+    },
     "Cardi B": {
         "height": 1.68, "weight": 62,
         "sizes": "99-69-91", "nsfw": "true",
