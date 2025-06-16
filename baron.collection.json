@@ -62,18 +62,18 @@
         }
     },
     "002": {
-        "title": "[codename:][project] ([year])",
+        "title": "[codename:][project|title] ([year])",
         "language": {
             "CH": "Magnum Opus de Ian Fleming",
-            "JP": "[codename:][project]（[year]）",
-            "KR": "[codename:][project] ([year])",
-            "CN": "[codename:][project]（[year]）",
-            "AE": "([year]) [project][:codename]",
-            "SA": "([year]) [project][:codename]",
-            "IQ": "([year]) [project][:codename]",
-            "IR": "([year]) [project][:codename]",
-            "KW": "([year]) [project][:codename]",
-            "QA": "([year]) [project][:codename]"
+            "JP": "[codename:][project|title]（[year]）",
+            "KR": "[codename:][project|title] ([year])",
+            "CN": "[codename:][project|title]（[year]）",
+            "AE": "([year]) [project|title][:codename]",
+            "SA": "([year]) [project|title][:codename]",
+            "IQ": "([year]) [project|title][:codename]",
+            "IR": "([year]) [project|title][:codename]",
+            "KW": "([year]) [project|title][:codename]",
+            "QA": "([year]) [project|title][:codename]"
         }
     }
 }
