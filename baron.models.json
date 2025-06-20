@@ -53,6 +53,15 @@
             }
         }
     },
+    "Ana de Armas": {
+        "height": 1.68, "weight": 55,
+        "sizes": "86-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "ES",
+        "birthday": "April 30, 1988",
+        "language": {
+            "RU": { "title": "Ана де Армас" }
+        }
+    },
     "Amanda Righetti": {
         "height": 1.75, "weight": 58,
         "sizes": "86-71-91", "nsfw": "true",
