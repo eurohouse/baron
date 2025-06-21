@@ -62,24 +62,6 @@
             "RU": { "title": "Ана де Армас" }
         }
     },
-    "Amanda Righetti": {
-        "height": 1.75, "weight": 58,
-        "sizes": "86-71-91", "nsfw": "true",
-        "shoe_size": 9, "country": "US",
-        "birthday": "April 4, 1983",
-        "language": {
-            "RU": { "title": "Аманда Ригетти" }
-        }
-    },
-    "Cardi B": {
-        "height": 1.68, "weight": 62,
-        "sizes": "99-69-91", "nsfw": "true",
-        "shoe_size": 4, "country": "US",
-        "birthday": "October 11, 1992",
-        "language": {
-            "RU": { "title": "Карди Би" }
-        }
-    },
     "Fanny Neguesha": {
         "height": 1.73, "weight": 56,
         "sizes": "86-59-89", "nsfw": "true",
@@ -100,13 +82,13 @@
             "CY": { "title": "Ήβη Αδάμου" }
         }
     },
-    "Ariana Grande": {
-        "height": 1.55, "weight": 44,
-        "sizes": "81-61-84", "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "June 26, 1993",
+    "Brigitte Bardot": {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
         "language": {
-            "RU": { "title": "Ариана Гранде" }
+            "RU": { "title": "Брижит Бардо" }
         }
     },
     "Rose Bertram": {
@@ -118,13 +100,68 @@
             "RU": { "title": "Роза Бертрам" }
         }
     },
-    "Brigitte Bardot": {
-        "height": 1.66, "weight": 57,
-        "sizes": "89-63-89", "nsfw": "true",
-        "shoe_size": 7.5, "country": "FR",
-        "birthday": "September 28, 1934",
+    "Shakira": {
+        "height": 1.57, "weight": 53,
+        "sizes": "87-61-94", "nsfw": "true",
+        "shoe_size": 7, "country": "CO",
+        "birthday": "February 2, 1977",
         "language": {
-            "RU": { "title": "Брижит Бардо" }
+            "RU": { "title": "Шакира" }
+        }
+    },
+    "Adriana Lima": {
+        "height": 1.78, "weight": 60,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 10, "country": "BR",
+        "birthday": "June 12, 1981",
+        "language": {
+            "RU": { "title": "Адриана Лима" }
+        }
+    },
+    "Marion Cotillard": {
+        "height": 1.69, "weight": 57,
+        "sizes": "92-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "September 30, 1975",
+        "language": {
+            "RU": { "title": "Марион Котийяр" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "deathday": "January 20, 1993",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Amanda Righetti": {
+        "height": 1.75, "weight": 58,
+        "sizes": "86-71-91", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "April 4, 1983",
+        "language": {
+            "RU": { "title": "Аманда Ригетти" }
+        }
+    },
+    "Cardi B": {
+        "height": 1.68, "weight": 62,
+        "sizes": "99-69-91", "nsfw": "true",
+        "shoe_size": 4, "country": "US",
+        "birthday": "October 11, 1992",
+        "language": {
+            "RU": { "title": "Карди Би" }
+        }
+    },
+    "Ariana Grande": {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
         }
     },
     "Katy Perry": {
@@ -161,15 +198,6 @@
             "RU": { "title": "Бейонсе" }
         }
     },
-    "Shakira": {
-        "height": 1.57, "weight": 53,
-        "sizes": "87-61-94", "nsfw": "true",
-        "shoe_size": 7, "country": "CO",
-        "birthday": "February 2, 1977",
-        "language": {
-            "RU": { "title": "Шакира" }
-        }
-    },
     "Angelina Jolie": {
         "height": 1.69, "weight": 54,
         "sizes": "92-59-89", "nsfw": "true",
@@ -179,25 +207,6 @@
             "RU": { "title": "Анджелина Джоли" }
         }
     },
-    "Audrey Hepburn": {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "deathday": "January 20, 1993",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
-        }
-    },
-    "Adriana Lima": {
-        "height": 1.78, "weight": 60,
-        "sizes": "86-63-89", "nsfw": "true",
-        "shoe_size": 10, "country": "BR",
-        "birthday": "June 12, 1981",
-        "language": {
-            "RU": { "title": "Адриана Лима" }
-        }
-    },
     "Sydney Sweeney": {
         "height": 1.61, "weight": 56,
         "sizes": "91-63-91", "nsfw": "true",
@@ -205,15 +214,6 @@
         "birthday": "September 12, 1997",
         "language": {
             "RU": { "title": "Сидни Суини" }
-        }
-    },
-    "Marion Cotillard": {
-        "height": 1.69, "weight": 57,
-        "sizes": "92-61-86", "nsfw": "true",
-        "shoe_size": 8, "country": "FR",
-        "birthday": "September 30, 1975",
-        "language": {
-            "RU": { "title": "Марион Котийяр" }
         }
     },
     "Austro-Hungarian Empire": {
