@@ -62,7 +62,7 @@
         }
     },
     "002": {
-        "title": "[codename:project|title] ([year])",
+        "title": "[codename:][project|title] ([year])",
         "language": {
             "CH": "Magnum Opus de Ian Fleming",
             "JP": "[codename:][project|title]（[year]）",
