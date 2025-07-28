@@ -234,7 +234,7 @@
             }
         }
     },
-    "Palace Ballroom": {
+    "Palace Ballroom Blitz": {
         "country": "EU", "insignia": "Harp",
         "memoir": "Ballroom dance, type of social dancing, originally practiced in Europe and the United States, that is performed by couples and follows prescribed steps. The tradition was historically distinguished from folk or country dance by its association with the elite social classes and with invitational dance events. In the 21st century, however, ballroom dance is present in many parts of the world and has practitioners in virtually all segments of society. It is performed in various contexts, including invitational and public dance events, professional dance exhibitions, and formal competitions. Standard ballroom dances include the waltz and the polka from the 19th century and the fox-trot, the two-step, and the tango, among others, from the 20th century. Other popular dances—such as the Charleston, swing dancing, the mambo, the twist, and disco dancing—have also visited the ballroom repertoire at various points in the tradition’s history. Owing to the social and stylistic breadth of the ballroom tradition, the term ballroom dance has often been loosely applied to all sorts of social and popular dancing. The social origin of ballroom dance lies in the European court dances of the 17th and 18th centuries, although many of the dance steps were adapted from folk traditions. Initially, court dances were performed facing the throne, a practice known as “fronting the state,” because it was unacceptable to turn one’s back on a ruler. As court etiquette relaxed in the 19th century, however, dancers were required to face the ruler only on the most formal occasions or when they were being presented to the court. Otherwise participants danced in circles or squares throughout the ballroom.",
         "language": {
@@ -299,7 +299,7 @@
             }
         }
     },
-    "Haussmann Architecture": {
+    "Haussmann Architecture Paris": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Palace",
         "memoir": "Literally translated to “the beautiful era,” Paris' La Belle Époque lasted from 1871 to 1914. During this time, several aspects of Parisian culture saw important developments. In fine art, Impressionist, Cubist, and Fauvist pioneers revolutionized painting, and graphic designers elevated printmaking to a fine art form. Architects executed plans for a new Paris, while writers made their mark with a more modern approach to storytelling. What sparked such an all-encompassing golden age? To find out, one must contextualize this cultural event within history. In the summer of 1871, the City of Light was finding its footing after the fall of the Paris Commune. The Paris Commune was a revolutionary government that emerged as a result of France's defeat during the Franco-Prussian War and, consequently, the collapse of Napoleon III's Second Empire. Backed by the National Guard, this radical left-wing commune seized power on March 18 and ruled Paris until May 28, when the city was reclaimed by the French Army—but not without a fight. During the violent confrontation, buildings across Paris—including Haussmann apartments on the bustling rue de Rivoli, Hôtel de Ville, Paris' city hall, and most symbolically, the Tuileries Palace—were set alight. As a result, the new government was faced with the task of rebuilding Paris. While some buildings were restored to their original selves, others were either rebuilt in a new style or replaced entirely. In any case, these projects ushered in a new period of Paris: La Belle Époque.",
@@ -428,7 +428,7 @@
             }
         }
     },
-    "Eiffel Tower": {
+    "Eiffel Tower Paris": {
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
         "memoir": "The plan to build a tower 300 metres high was conceived as part of preparations for the World's Fair of 1889. The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals. The tower project was a bold extension of this principle up to a height of 300 metres - equivalent to the symbolic figure of 1000 feet. On September 18 1884 Eiffel registered a patent \"for a new configuration allowing the construction of metal supports and pylons capable of exceeding a height of 300 metres\". In order to make the project more acceptable to public opinion, Nouguier and Koechlin commissioned the architect Stephen Sauvestre to work on the project's appearance.",
