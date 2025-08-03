@@ -127,6 +127,15 @@
             "RU": { "title": "Шакира" }
         }
     },
+    "Pamela Anderson": {
+        "height": 1.69, "weight": 60,
+        "sizes": "99-66-86", "nsfw": "true",
+        "shoe_size": 8.5, "country": "CA",
+        "birthday": "July 1, 1967",
+        "language": {
+            "RU": { "title": "Памела Андерсон" }
+        }
+    },
     "Adriana Lima": {
         "height": 1.78, "weight": 60,
         "sizes": "86-63-89", "nsfw": "true",
