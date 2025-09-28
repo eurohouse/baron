@@ -93,6 +93,15 @@
             "RU": { "title": "Фанни Негёша" }
         }
     },
+    "Elizabeth Hurley": {
+        "height": 1.73, "weight": 61,
+        "sizes": "97-66-86", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "June 10, 1965",
+        "language": {
+            "RU": { "title": "Элизабет Хёрли" }
+        }
+    },
     "Shakira": {
         "height": 1.57, "weight": 53,
         "sizes": "87-61-94", "nsfw": "true",
