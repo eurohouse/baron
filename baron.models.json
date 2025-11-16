@@ -75,15 +75,6 @@
             }
         }
     },
-    "Ana de Armas": {
-        "height": 1.68, "weight": 55,
-        "sizes": "86-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "ES",
-        "birthday": "April 30, 1988",
-        "language": {
-            "RU": { "title": "Ана де Армас" }
-        }
-    },
     "Fanny Neguesha": {
         "height": 1.73, "weight": 56,
         "sizes": "86-59-89", "nsfw": "true",
@@ -175,6 +166,15 @@
         "birthday": "February 19, 1993",
         "language": {
             "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Ana de Armas": {
+        "height": 1.68, "weight": 55,
+        "sizes": "86-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "CU",
+        "birthday": "April 30, 1988",
+        "language": {
+            "RU": { "title": "Ана де Армас" }
         }
     },
     "Amanda Righetti": {
